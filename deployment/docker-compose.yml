@@ -27,12 +27,12 @@ services:
       - "zookeeper"
 
   db:
-    image: mysql:8.0
+    image: mysql:5.7
     restart: always
     environment:
       MYSQL_DATABASE: 'events'
       MYSQL_USER: 'user'
-      MYSQL_PASSWORD: 'password'
+      MYSQL_PASSWORD: 'passwod'
       MYSQL_ROOT_PASSWORD: 'password'
     ports:
       - '3306:3306'
