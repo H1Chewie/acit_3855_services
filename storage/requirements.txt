@@ -1,0 +1,8 @@
+connexion==2.14.2
+swagger-ui-bundle==0.0.9
+pykafka==2.8.0
+logging==0.4.9.6
+SQLAlchemy==2.0.21
+PyMySQL==1.1.0
+mysql-connector-python==8.1.0
+json5==0.9.14
