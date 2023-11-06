@@ -1,6 +1,6 @@
 import mysql.connector
 db_conn = mysql.connector.connect(host="acit3855kafkazoo.eastus2.cloudapp.azure.com", user="user",
-password="password", database="events")
+password="", database="events")
 db_cursor = db_conn.cursor()
 db_cursor.execute('''
 CREATE TABLE car_events
