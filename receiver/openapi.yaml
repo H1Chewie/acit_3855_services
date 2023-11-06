@@ -1,0 +1,104 @@
+openapi: 3.0.0
+info:
+  description: This API receives parking information from cars and bikes.
+  version: "1.0.0"
+  title: Parkade API
+  contact:
+    email: cyin18@my.bcit.ca
+tags:
+  - name: vehicles
+    description: parking information of vehicles
+paths:
+    /parking/cars:
+      post:
+        tags:
+          - vehicles
+        summary: reports car parking ticket
+        operationId: app.report_car_parking_ticket
+        description: adds new parked car information
+        responses:
+          '200':
+            description: item added
+          '400':
+            description: 'invalid inputs'
+        requestBody:
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkedCars'
+          description: Reading item to add
+                
+    /parking/bikes:
+      post:
+        tags:
+          - vehicles
+        summary: reports bike parking ticket
+        operationId: app.report_bike_parking_ticket
+        description: adds new parked bike information
+        responses:
+          '200':
+            description: item added
+          '400':
+            description: 'invalid inputs'
+        requestBody:
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkedBikes'
+          description: Reading item to add
+  
+components:
+  schemas:
+      ParkedCars:
+        required:
+          - license_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+        properties:
+          license_id:
+            type: string
+            example: 883AHT
+          timestamp:
+            type: string
+            example: '2021-02-05T12:39:16'
+          hours_parked:
+            type: integer
+            example: 3
+          email:
+            type: string
+            example: abcedf@gmail.com
+          cost:
+            type: integer
+            example: 5
+        type: object
+        
+      ParkedBikes:
+        required:
+          - bike_model
+          - bike_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+        properties:
+          bike_model:
+            type: string
+            example: Allez Sport
+          bike_id:
+            type: integer
+            example: 23098423852
+          timestamp:
+            type: string
+            example: '2021-02-05T12:39:16'
+          hours_parked:
+            type: integer
+            example: 5
+          email:
+            type: string
+            example: joidad@gmail.com
+          cost:
+            type: integer
+            example: 12
+        type: object

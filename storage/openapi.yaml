@@ -1,0 +1,143 @@
+openapi: 3.0.0
+info:
+  description: This API receives parking information from cars and bikes.
+  version: "1.0.0"
+  title: Parkade API
+  contact:
+    email: cyin18@my.bcit.ca
+tags:
+  - name: vehicles
+    description: parking information of vehicles
+paths:
+    /parking/cars:
+      get:
+        tags:
+          - vehicles
+        summary: get parked cars after a timestamp
+        operationId: app.get_parked_cars
+        description: Gets parked cars added after a timestamp
+        parameters:
+          - name: timestamp
+            in: query
+            description: Timestamp to filter parked cars
+            required: true
+            schema:
+              type: string
+              format: date-time
+              example: 2021-02-05T12:39:16Z
+        responses:
+          '200':
+            description: Successfully returned a list of parked car events
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/ParkedCars'
+          '400':
+            description: Invalid request
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    message:
+                      type: string
+
+    /parking/bikes:
+      get:
+        tags:
+          - vehicles
+        summary: get parked bikes after a timestamp
+        operationId: app.get_parked_bikes
+        description: Gets parked bikes added after a timestamp
+        parameters:
+          - name: timestamp
+            in: query
+            description: Timestamp to filter parked bikes
+            required: true
+            schema:
+              type: string
+              format: date-time
+              example: '2021-02-05T12:39:16Z'
+        responses:
+          '200':
+            description: Successfully returned a list of parked bike events
+            content:
+              application/json:
+                schema:
+                  type: array
+                  items:
+                    $ref: '#/components/schemas/ParkedBikes'
+          '400':
+            description: Invalid request
+            content:
+              application/json:
+                schema:
+                  type: object
+                  properties:
+                    message:
+                      type: string
+  
+components:
+  schemas:
+      ParkedCars:
+        required:
+          - license_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+        properties:
+          license_id:
+            type: string
+            example: 883AHT
+          timestamp:
+            type: string
+            example: '2021-02-05T12:39:16Z'
+          hours_parked:
+            type: integer
+            example: 3
+          email:
+            type: string
+            example: abcedf@gmail.com
+          cost:
+            type: integer
+            example: 5
+          trace_id:
+            type: string
+            example: 550e8400-e29b-41d4-a716-446655440000
+        type: object
+        
+      ParkedBikes:
+        required:
+          - bike_model
+          - bike_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+          - trace_id
+        properties:
+          bike_model:
+            type: string
+            example: Allez Sport
+          bike_id:
+            type: integer
+            example: 2309840
+          timestamp:
+            type: string
+            example: "2021-02-05T12:39:16Z"
+          hours_parked:
+            type: integer
+            example: 5
+          email:
+            type: string
+            example: joidad@gmail.com
+          cost:
+            type: integer
+            example: 12
+          trace_id:
+            type: string
+            example: 550e8400-e29b-41d4-a716-446655440000
+        type: object

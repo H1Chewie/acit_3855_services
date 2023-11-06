@@ -1,0 +1,64 @@
+openapi: 3.0.0
+info:
+  description: This API provides event stats for car and bike parking tickets.
+  version: "1.0.0"
+  title: Stats API
+  contact:
+    email: cyin18@bcit.ca
+tags:
+  - name: parking_stats
+    description: Statistics for parking tickets
+paths:
+  /stats:
+    get:
+      summary: Gets the parking ticket statistics
+      operationId: app.get_stats
+      description: Gets Car and Bike Parking Ticket processed statistics
+      responses:
+        '200':
+          description: Successfully returned event statistics
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ParkingTicketStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+components:
+  schemas:
+    ParkingTicketStats:
+      required:
+        - num_car_parkings
+        - max_car_cost
+        - num_bike_events
+        - max_bike_cost
+      properties:
+        num_car_parkings:
+          type: integer
+          example: 500
+        max_car_cost:
+          type: integer
+          example: 12
+        num_bike_events:
+          type: integer
+          example: 300
+        max_bike_cost:
+          type: integer
+          example: 15
+    BikeParkingTicketStats:
+      required:
+        - num_bike_events
+        - max_bike_cost
+      properties:
+        num_bike_events:
+          type: integer
+          example: 300
+        max_bike_cost:
+          type: integer
+          example: 15

@@ -1,0 +1,150 @@
+openapi: 3.0.0
+info:
+  description: This API provides audit info for car and bike events.
+  version: "1.0.0"
+  title: Audit API
+  contact:
+    email: cyin18@bcit.ca
+
+paths:
+  /cars:
+    get:
+      summary: Gets a car parking ticket from history
+      operationId: app.get_parked_car
+      description: Gets car parking ticket from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the car parking ticket in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned a car parking ticket event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ParkedCars'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  /bikes:
+    get:
+      summary: Gets a bike parking ticket from history
+      operationId: app.get_parked_bike
+      description: Gets Bike Parking Ticket from the event store
+      parameters:
+        - name: index
+          in: query
+          description: Gets the bike parking ticket at the index in the event store
+          schema:
+            type: integer
+            example: 100
+      responses:
+        '200':
+          description: Successfully returned bike parking event
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ParkedBikes'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema: 
+                type: object
+                properties:
+                  message:
+                    type: string
+        '404':
+          description: Not Found
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+  
+components:
+  schemas:
+      ParkedCars:
+        required:
+          - license_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+        properties:
+          license_id:
+            type: string
+            example: 883AHT
+          timestamp:
+            type: string
+            example: '2021-02-05T12:39:16Z'
+          hours_parked:
+            type: integer
+            example: 3
+          email:
+            type: string
+            example: abcedf@gmail.com
+          cost:
+            type: integer
+            example: 5
+          trace_id:
+            type: string
+            example: 550e8400-e29b-41d4-a716-446655440000
+        type: object
+        
+      ParkedBikes:
+        required:
+          - bike_model
+          - bike_id
+          - timestamp
+          - hours_parked
+          - email
+          - cost
+          - trace_id
+        properties:
+          bike_model:
+            type: string
+            example: Allez Sport
+          bike_id:
+            type: integer
+            example: 2309840
+          timestamp:
+            type: string
+            example: "2021-02-05T12:39:16Z"
+          hours_parked:
+            type: integer
+            example: 5
+          email:
+            type: string
+            example: joidad@gmail.com
+          cost:
+            type: integer
+            example: 12
+          trace_id:
+            type: string
+            example: 550e8400-e29b-41d4-a716-446655440000
+        type: object
