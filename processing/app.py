@@ -7,6 +7,7 @@ import requests
 import yaml
 import logging.config
 import logging
+from flask_cors import CORS, cross_origin
 
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -118,6 +119,8 @@ def get_stats():
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api('parkingAPI.yaml', strict_validation=True, validate_responses=True)
+CORS(app.app)
+app.app.config['CORS_HEADERS'] = 'Content-Type'
 
 
 if __name__ == "__main__":

@@ -1,0 +1,41 @@
+2023-11-13 13:10:49,867 - basicLogger - INFO - Query for parked cars after2021-02-05T12:39:16Z returns 51 results
+2023-11-13 13:10:52,149 - basicLogger - INFO - Query for parked bikes after 2021-02-05T12:39:16Z returns 51 results
+2023-11-13 13:10:58,956 - basicLogger - INFO - Query for parked cars after2023-11-13T13:10:46Z returns 0 results
+2023-11-13 13:11:01,208 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:10:46Z returns 0 results
+2023-11-13 13:11:03,970 - basicLogger - INFO - Query for parked cars after2023-11-13T13:10:56Z returns 0 results
+2023-11-13 13:11:06,245 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:10:56Z returns 0 results
+2023-11-13 13:11:08,976 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:01Z returns 0 results
+2023-11-13 13:11:11,229 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:01Z returns 0 results
+2023-11-13 13:11:13,960 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:06Z returns 0 results
+2023-11-13 13:11:16,205 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:06Z returns 0 results
+2023-11-13 13:11:18,946 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:11Z returns 0 results
+2023-11-13 13:11:21,198 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:11Z returns 0 results
+2023-11-13 13:11:23,961 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:16Z returns 0 results
+2023-11-13 13:11:26,214 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:16Z returns 0 results
+2023-11-13 13:11:28,966 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:21Z returns 0 results
+2023-11-13 13:11:31,238 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:21Z returns 0 results
+2023-11-13 13:11:33,961 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:26Z returns 0 results
+2023-11-13 13:11:36,224 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:26Z returns 0 results
+2023-11-13 13:11:38,986 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:31Z returns 0 results
+2023-11-13 13:11:41,260 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:31Z returns 0 results
+2023-11-13 13:11:43,971 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:36Z returns 0 results
+2023-11-13 13:11:46,253 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:36Z returns 0 results
+2023-11-13 13:11:48,966 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:41Z returns 0 results
+2023-11-13 13:11:51,208 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:41Z returns 0 results
+2023-11-13 13:11:53,951 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:46Z returns 0 results
+2023-11-13 13:11:56,214 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:46Z returns 0 results
+2023-11-13 13:11:58,966 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:51Z returns 0 results
+2023-11-13 13:12:01,238 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:51Z returns 0 results
+2023-11-13 13:12:03,974 - basicLogger - INFO - Query for parked cars after2023-11-13T13:11:56Z returns 0 results
+2023-11-13 13:12:06,234 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:11:56Z returns 0 results
+2023-11-13 13:12:08,984 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:01Z returns 0 results
+2023-11-13 13:12:11,238 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:12:01Z returns 0 results
+2023-11-13 13:12:13,961 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:06Z returns 0 results
+2023-11-13 13:12:16,234 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:12:06Z returns 0 results
+2023-11-13 13:12:18,976 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:11Z returns 0 results
+2023-11-13 13:12:21,228 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:12:11Z returns 0 results
+2023-11-13 13:12:23,971 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:16Z returns 0 results
+2023-11-13 13:12:26,213 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:12:16Z returns 0 results
+2023-11-13 13:12:28,966 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:21Z returns 0 results
+2023-11-13 13:12:31,248 - basicLogger - INFO - Query for parked bikes after 2023-11-13T13:12:21Z returns 0 results
+2023-11-13 13:12:33,971 - basicLogger - INFO - Query for parked cars after2023-11-13T13:12:26Z returns 0 results

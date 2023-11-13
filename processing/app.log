@@ -1,0 +1,205 @@
+2023-11-13 13:02:46,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:03:11,022 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:03:11,022 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:03:11,705 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:03:35,892 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:03:35,893 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:03:36,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:04:00,858 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:04:00,858 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:04:01,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:04:25,869 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:04:25,869 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:04:26,705 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:04:50,853 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:04:50,853 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:04:51,697 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:05:15,902 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:05:15,902 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:05:16,694 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:05:40,893 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:05:40,894 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:05:41,694 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:06:05,859 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:06:05,860 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:06:06,692 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:06:30,870 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:06:30,870 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:06:31,697 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:06:46,041 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:06:46,041 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:06:46,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:06:55,748 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:06:55,748 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:06:56,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:05,747 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:05,747 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:06,693 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:15,670 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:15,671 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:16,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:25,662 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:25,663 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:26,702 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:36,741 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:36,742 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:41,701 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:46,335 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:46,335 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:46,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:51,270 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:51,270 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:51,698 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:07:56,295 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:07:56,295 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:07:56,698 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:01,269 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:01,269 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:01,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:06,314 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:06,315 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:06,698 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:11,298 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:11,300 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:11,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:16,303 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:16,304 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:16,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:21,298 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:21,299 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:21,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:26,264 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:26,264 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:26,707 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:31,299 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:31,299 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:31,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:36,283 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:36,283 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:36,699 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:41,311 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:41,312 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:41,693 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:46,306 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:46,306 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:46,702 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:51,304 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:51,304 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:51,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:08:56,319 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:08:56,319 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:08:56,701 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:01,309 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:09:01,309 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:09:01,705 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:06,323 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:09:06,323 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:09:06,694 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:11,320 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:09:11,320 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:09:11,702 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:16,292 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:09:16,292 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:09:16,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:21,300 - basicLogger - ERROR - Failed to get events. Car Status: 500, Bike Status: 500
+2023-11-13 13:09:21,300 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:09:21,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:26,693 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:31,698 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:36,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:41,706 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:46,699 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:51,705 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:09:56,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:01,693 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:06,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:11,705 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:16,694 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:21,692 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:26,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:31,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:36,706 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:41,696 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:46,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:10:52,155 - basicLogger - INFO - Received 51 car events and 51 bike events
+2023-11-13 13:10:52,156 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:10:46Z'}
+2023-11-13 13:10:52,156 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:10:56,691 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:01,210 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:01,211 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:10:56Z'}
+2023-11-13 13:11:01,211 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:01,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:06,247 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:06,247 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:01Z'}
+2023-11-13 13:11:06,248 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:06,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:11,230 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:11,231 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:06Z'}
+2023-11-13 13:11:11,231 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:11,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:16,207 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:16,208 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:11Z'}
+2023-11-13 13:11:16,208 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:16,697 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:21,200 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:21,201 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:16Z'}
+2023-11-13 13:11:21,201 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:21,695 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:26,216 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:26,217 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:21Z'}
+2023-11-13 13:11:26,217 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:26,700 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:31,240 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:31,241 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:26Z'}
+2023-11-13 13:11:31,241 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:31,702 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:36,226 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:36,227 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:31Z'}
+2023-11-13 13:11:36,227 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:36,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:41,262 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:41,263 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:36Z'}
+2023-11-13 13:11:41,263 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:41,703 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:46,254 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:46,255 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:41Z'}
+2023-11-13 13:11:46,256 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:46,704 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:51,210 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:51,211 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:46Z'}
+2023-11-13 13:11:51,211 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:51,694 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:11:56,214 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:11:56,214 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:51Z'}
+2023-11-13 13:11:56,218 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:11:56,697 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:01,240 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:01,241 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:11:56Z'}
+2023-11-13 13:12:01,241 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:01,697 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:06,236 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:06,236 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:01Z'}
+2023-11-13 13:12:06,237 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:06,704 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:11,240 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:11,241 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:06Z'}
+2023-11-13 13:12:11,241 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:11,692 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:16,235 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:16,236 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:11Z'}
+2023-11-13 13:12:16,237 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:16,702 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:21,230 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:21,231 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:16Z'}
+2023-11-13 13:12:21,231 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:21,708 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:26,214 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:26,215 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:21Z'}
+2023-11-13 13:12:26,216 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:26,704 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:31,250 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-13 13:12:31,251 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 51, 'max_car_cost': 9924, 'num_bike_events': 51, 'max_bike_cost': 12, 'last_updated': '2023-11-13T13:12:26Z'}
+2023-11-13 13:12:31,251 - basicLogger - INFO - End Periodic Processing
+2023-11-13 13:12:31,699 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:36,701 - basicLogger - INFO - Start Periodic Processing
+2023-11-13 13:12:41,704 - basicLogger - INFO - Start Periodic Processing
