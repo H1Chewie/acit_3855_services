@@ -81,10 +81,9 @@ def get_parked_bike(index):
     return {"message": "Not Found"}, 404
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
-
+app.add_api("openapi.yaml", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     app.run(port=8110, use_reloader=False)
