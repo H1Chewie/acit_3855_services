@@ -38,6 +38,7 @@ components:
         - max_car_cost
         - num_bike_events
         - max_bike_cost
+        - last_updated
       properties:
         num_car_parkings:
           type: integer
