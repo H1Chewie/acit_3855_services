@@ -118,10 +118,9 @@ def get_stats():
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api('parkingAPI.yaml', strict_validation=True, validate_responses=True)
 CORS(app.app)
 app.app.config['CORS_HEADERS'] = 'Content-Type'
-
+app.add_api('parkingAPI.yaml', strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     init_scheduler()
