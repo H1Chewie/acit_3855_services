@@ -1010,3 +1010,764 @@
 2023-11-15 19:49:47,579 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:49:43Z'}
 2023-11-15 19:49:47,579 - basicLogger - INFO - End Periodic Processing
 2023-11-15 19:49:48,013 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:55:38,779 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:55:44,415 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:55:44,416 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:55:38Z'}
+2023-11-15 19:55:44,416 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:55:48,778 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:55:53,411 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:55:53,412 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:55:48Z'}
+2023-11-15 19:55:53,412 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:55:53,782 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:55:58,488 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:55:58,489 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:55:53Z'}
+2023-11-15 19:55:58,489 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:55:58,783 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:03,380 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:03,381 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:55:58Z'}
+2023-11-15 19:56:03,381 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:03,791 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:08,379 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:08,380 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:03Z'}
+2023-11-15 19:56:08,380 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:08,783 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:13,365 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:13,366 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:08Z'}
+2023-11-15 19:56:13,367 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:13,777 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:18,366 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:18,366 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:13Z'}
+2023-11-15 19:56:18,366 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:18,782 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:23,377 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:23,378 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:18Z'}
+2023-11-15 19:56:23,379 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:23,777 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:28,450 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:28,451 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:23Z'}
+2023-11-15 19:56:28,451 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:28,791 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:33,376 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:33,377 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:28Z'}
+2023-11-15 19:56:33,377 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:33,793 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:38,713 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:38,714 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:33Z'}
+2023-11-15 19:56:38,715 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:38,787 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:43,393 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:43,393 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:38Z'}
+2023-11-15 19:56:43,395 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:43,786 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:48,642 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:48,643 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:43Z'}
+2023-11-15 19:56:48,643 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:48,786 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:53,391 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:53,392 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:48Z'}
+2023-11-15 19:56:53,392 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:53,779 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:56:58,401 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:56:58,402 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 56, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:53Z'}
+2023-11-15 19:56:58,402 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:56:58,784 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:03,398 - basicLogger - INFO - Received 0 car events and 5 bike events
+2023-11-15 19:57:03,399 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 56, 'max_car_cost': 9924, 'num_bike_events': 61, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:56:58Z'}
+2023-11-15 19:57:03,400 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:03,776 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:08,467 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:57:08,468 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 61, 'max_car_cost': 9924, 'num_bike_events': 66, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:03Z'}
+2023-11-15 19:57:08,468 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:08,787 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:13,403 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:57:13,404 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 66, 'max_car_cost': 9924, 'num_bike_events': 71, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:08Z'}
+2023-11-15 19:57:13,404 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:13,785 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:18,720 - basicLogger - INFO - Received 4 car events and 5 bike events
+2023-11-15 19:57:18,721 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 70, 'max_car_cost': 9924, 'num_bike_events': 76, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:13Z'}
+2023-11-15 19:57:18,721 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:18,783 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:23,524 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:57:23,525 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 75, 'max_car_cost': 9924, 'num_bike_events': 81, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:18Z'}
+2023-11-15 19:57:23,526 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:23,790 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:28,415 - basicLogger - INFO - Received 1 car events and 5 bike events
+2023-11-15 19:57:28,416 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 76, 'max_car_cost': 9924, 'num_bike_events': 86, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:23Z'}
+2023-11-15 19:57:28,417 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:28,778 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:33,411 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:57:33,412 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 81, 'max_car_cost': 9924, 'num_bike_events': 91, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:28Z'}
+2023-11-15 19:57:33,412 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:33,786 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:39,012 - basicLogger - INFO - Received 1 car events and 5 bike events
+2023-11-15 19:57:39,013 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 82, 'max_car_cost': 9924, 'num_bike_events': 96, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:33Z'}
+2023-11-15 19:57:39,013 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:43,787 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:48,420 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:57:48,421 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 87, 'max_car_cost': 9924, 'num_bike_events': 101, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:43Z'}
+2023-11-15 19:57:48,421 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:48,779 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:53,702 - basicLogger - INFO - Received 5 car events and 7 bike events
+2023-11-15 19:57:53,703 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 92, 'max_car_cost': 9924, 'num_bike_events': 108, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:48Z'}
+2023-11-15 19:57:53,703 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:53,786 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:57:58,364 - basicLogger - INFO - Received 2 car events and 5 bike events
+2023-11-15 19:57:58,365 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 94, 'max_car_cost': 9924, 'num_bike_events': 113, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:53Z'}
+2023-11-15 19:57:58,365 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:57:58,784 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:03,720 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:03,721 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 99, 'max_car_cost': 9967, 'num_bike_events': 118, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:57:58Z'}
+2023-11-15 19:58:03,722 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:03,789 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:08,591 - basicLogger - INFO - Received 2 car events and 5 bike events
+2023-11-15 19:58:08,592 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 101, 'max_car_cost': 9967, 'num_bike_events': 123, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:03Z'}
+2023-11-15 19:58:08,592 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:08,784 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:13,419 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:13,420 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 106, 'max_car_cost': 9967, 'num_bike_events': 128, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:08Z'}
+2023-11-15 19:58:13,420 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:13,785 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:18,390 - basicLogger - INFO - Received 4 car events and 5 bike events
+2023-11-15 19:58:18,391 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 110, 'max_car_cost': 9967, 'num_bike_events': 133, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:13Z'}
+2023-11-15 19:58:18,391 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:18,776 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:23,390 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:23,391 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 115, 'max_car_cost': 9967, 'num_bike_events': 138, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:18Z'}
+2023-11-15 19:58:23,391 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:23,782 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:28,410 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:28,411 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 120, 'max_car_cost': 9967, 'num_bike_events': 143, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:23Z'}
+2023-11-15 19:58:28,411 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:28,783 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:33,527 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:33,528 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 125, 'max_car_cost': 9967, 'num_bike_events': 148, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:28Z'}
+2023-11-15 19:58:33,529 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:33,777 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:38,383 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:38,384 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 130, 'max_car_cost': 9967, 'num_bike_events': 153, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:33Z'}
+2023-11-15 19:58:38,385 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:38,782 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:43,373 - basicLogger - INFO - Received 5 car events and 5 bike events
+2023-11-15 19:58:43,373 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 135, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:38Z'}
+2023-11-15 19:58:43,374 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:43,779 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:48,420 - basicLogger - INFO - Received 5 car events and 0 bike events
+2023-11-15 19:58:48,421 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:43Z'}
+2023-11-15 19:58:48,421 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:48,783 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:53,726 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:58:53,726 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:48Z'}
+2023-11-15 19:58:53,727 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:53,789 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:58:58,394 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:58:58,395 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:53Z'}
+2023-11-15 19:58:58,396 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:58:58,777 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:03,412 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:03,413 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:58:58Z'}
+2023-11-15 19:59:03,414 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:03,784 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:08,398 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:08,399 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:03Z'}
+2023-11-15 19:59:08,400 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:08,792 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:13,734 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:13,735 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:08Z'}
+2023-11-15 19:59:13,735 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:13,789 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:18,377 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:18,378 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:13Z'}
+2023-11-15 19:59:18,378 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:18,785 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:23,410 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:23,411 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:18Z'}
+2023-11-15 19:59:23,412 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:23,787 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:28,946 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:28,946 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:23Z'}
+2023-11-15 19:59:28,947 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:33,786 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:38,396 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:38,397 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:33Z'}
+2023-11-15 19:59:38,397 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:38,781 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:43,369 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:43,370 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:38Z'}
+2023-11-15 19:59:43,370 - basicLogger - INFO - End Periodic Processing
+2023-11-15 19:59:43,788 - basicLogger - INFO - Start Periodic Processing
+2023-11-15 19:59:48,388 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-15 19:59:48,389 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-15T19:59:43Z'}
+2023-11-15 19:59:48,389 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:15,050 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:20,411 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:20,412 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:15Z'}
+2023-11-16 14:05:20,413 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:25,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:29,538 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:29,539 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:25Z'}
+2023-11-16 14:05:29,540 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:30,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:34,531 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:34,532 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:30Z'}
+2023-11-16 14:05:34,532 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:35,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:39,556 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:39,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:35Z'}
+2023-11-16 14:05:39,558 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:40,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:44,528 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:44,529 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:40Z'}
+2023-11-16 14:05:44,529 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:45,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:49,550 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:49,551 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:45Z'}
+2023-11-16 14:05:49,551 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:50,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:54,545 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:54,546 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:50Z'}
+2023-11-16 14:05:54,546 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:05:55,065 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:05:59,559 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:05:59,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:05:55Z'}
+2023-11-16 14:05:59,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:00,063 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:04,588 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:04,589 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:00Z'}
+2023-11-16 14:06:04,589 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:05,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:09,534 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:09,536 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:05Z'}
+2023-11-16 14:06:09,536 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:10,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:14,537 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:14,538 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:10Z'}
+2023-11-16 14:06:14,539 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:15,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:19,528 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:19,529 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:15Z'}
+2023-11-16 14:06:19,529 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:20,064 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:24,566 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:24,567 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:20Z'}
+2023-11-16 14:06:24,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:25,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:29,529 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:29,530 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:25Z'}
+2023-11-16 14:06:29,530 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:30,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:34,553 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:34,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:30Z'}
+2023-11-16 14:06:34,555 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:35,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:39,549 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:39,550 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:35Z'}
+2023-11-16 14:06:39,550 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:40,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:44,586 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:44,587 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:40Z'}
+2023-11-16 14:06:44,587 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:45,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:49,571 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:49,572 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:45Z'}
+2023-11-16 14:06:49,572 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:50,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:54,587 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:54,588 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:50Z'}
+2023-11-16 14:06:54,589 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:06:55,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:06:59,545 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:06:59,547 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:06:55Z'}
+2023-11-16 14:06:59,547 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:00,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:04,547 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:04,548 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:00Z'}
+2023-11-16 14:07:04,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:05,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:09,597 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:09,598 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:05Z'}
+2023-11-16 14:07:09,598 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:10,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:14,562 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:14,562 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:10Z'}
+2023-11-16 14:07:14,562 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:15,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:19,571 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:19,572 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:15Z'}
+2023-11-16 14:07:19,572 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:20,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:24,576 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:24,576 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:20Z'}
+2023-11-16 14:07:24,577 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:25,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:29,573 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:29,574 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:25Z'}
+2023-11-16 14:07:29,574 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:30,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:34,559 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:34,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:30Z'}
+2023-11-16 14:07:34,560 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:35,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:39,567 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:39,568 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:35Z'}
+2023-11-16 14:07:39,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:40,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:44,559 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:44,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:40Z'}
+2023-11-16 14:07:44,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:45,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:49,556 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:49,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:45Z'}
+2023-11-16 14:07:49,557 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:50,065 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:54,568 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:54,569 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:50Z'}
+2023-11-16 14:07:54,569 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:07:55,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:07:59,545 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:07:59,547 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:07:55Z'}
+2023-11-16 14:07:59,547 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:00,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:04,549 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:04,550 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:00Z'}
+2023-11-16 14:08:04,551 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:05,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:09,557 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:09,558 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:05Z'}
+2023-11-16 14:08:09,559 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:10,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:14,565 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:14,566 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:10Z'}
+2023-11-16 14:08:14,566 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:15,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:19,556 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:19,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:15Z'}
+2023-11-16 14:08:19,558 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:20,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:24,553 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:24,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:20Z'}
+2023-11-16 14:08:24,554 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:25,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:29,524 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:29,525 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:25Z'}
+2023-11-16 14:08:29,525 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:30,050 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:34,547 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:34,548 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:30Z'}
+2023-11-16 14:08:34,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:35,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:39,567 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:39,568 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:35Z'}
+2023-11-16 14:08:39,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:40,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:44,532 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:44,534 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:40Z'}
+2023-11-16 14:08:44,534 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:45,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:49,571 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:49,572 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:45Z'}
+2023-11-16 14:08:49,572 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:50,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:54,541 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:54,542 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:50Z'}
+2023-11-16 14:08:54,542 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:08:55,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:08:59,558 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:08:59,559 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:08:55Z'}
+2023-11-16 14:08:59,560 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:00,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:04,541 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:04,542 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 158, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:00Z'}
+2023-11-16 14:09:04,542 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:05,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:09,540 - basicLogger - INFO - Received 0 car events and 1 bike events
+2023-11-16 14:09:09,541 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 140, 'max_car_cost': 9967, 'num_bike_events': 159, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:05Z'}
+2023-11-16 14:09:09,541 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:10,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:14,547 - basicLogger - INFO - Received 1 car events and 1 bike events
+2023-11-16 14:09:14,548 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 141, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:10Z'}
+2023-11-16 14:09:14,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:15,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:19,544 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:19,545 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 141, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:15Z'}
+2023-11-16 14:09:19,545 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:20,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:24,568 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:24,569 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 141, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:20Z'}
+2023-11-16 14:09:24,569 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:25,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:29,588 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:29,589 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 141, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:25Z'}
+2023-11-16 14:09:29,589 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:30,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:34,578 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:34,579 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 141, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:30Z'}
+2023-11-16 14:09:34,579 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:35,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:39,540 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:09:39,540 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:35Z'}
+2023-11-16 14:09:39,541 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:40,050 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:44,572 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:44,572 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:40Z'}
+2023-11-16 14:09:44,573 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:45,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:49,581 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:49,582 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:45Z'}
+2023-11-16 14:09:49,582 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:50,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:54,575 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:54,575 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:50Z'}
+2023-11-16 14:09:54,576 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:09:55,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:09:59,570 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:09:59,571 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:09:55Z'}
+2023-11-16 14:09:59,571 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:00,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:04,567 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:04,568 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:00Z'}
+2023-11-16 14:10:04,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:05,064 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:09,537 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:09,538 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:05Z'}
+2023-11-16 14:10:09,538 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:10,064 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:14,539 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:14,539 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:10Z'}
+2023-11-16 14:10:14,540 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:15,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:19,548 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:19,549 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:15Z'}
+2023-11-16 14:10:19,550 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:20,063 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:24,577 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:24,578 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:20Z'}
+2023-11-16 14:10:24,578 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:25,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:29,579 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:29,580 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:25Z'}
+2023-11-16 14:10:29,580 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:30,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:34,562 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:34,563 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:30Z'}
+2023-11-16 14:10:34,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:35,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:39,585 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:39,586 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 142, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:35Z'}
+2023-11-16 14:10:39,587 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:40,066 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:44,577 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:10:44,578 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 143, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:40Z'}
+2023-11-16 14:10:44,578 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:45,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:49,588 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:10:49,589 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:45Z'}
+2023-11-16 14:10:49,589 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:50,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:54,571 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:54,571 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:50Z'}
+2023-11-16 14:10:54,572 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:10:55,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:10:59,563 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:10:59,564 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:10:55Z'}
+2023-11-16 14:10:59,564 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:00,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:04,606 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:04,607 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:00Z'}
+2023-11-16 14:11:04,607 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:05,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:09,547 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:09,548 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:05Z'}
+2023-11-16 14:11:09,548 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:10,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:14,538 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:14,539 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:10Z'}
+2023-11-16 14:11:14,540 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:15,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:19,561 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:19,562 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:15Z'}
+2023-11-16 14:11:19,562 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:20,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:24,539 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:24,540 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:20Z'}
+2023-11-16 14:11:24,541 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:25,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:29,559 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:29,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:25Z'}
+2023-11-16 14:11:29,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:30,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:34,579 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:34,580 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:30Z'}
+2023-11-16 14:11:34,580 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:35,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:39,543 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:39,543 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:35Z'}
+2023-11-16 14:11:39,544 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:40,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:44,560 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:44,561 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:40Z'}
+2023-11-16 14:11:44,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:45,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:49,557 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:49,558 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:45Z'}
+2023-11-16 14:11:49,558 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:50,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:54,552 - basicLogger - INFO - Received 0 car events and 0 bike events
+2023-11-16 14:11:54,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 144, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:50Z'}
+2023-11-16 14:11:54,554 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:11:55,065 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:11:59,563 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:11:59,564 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 146, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:11:55Z'}
+2023-11-16 14:11:59,564 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:00,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:04,589 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:12:04,590 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 148, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:00Z'}
+2023-11-16 14:12:04,590 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:05,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:09,562 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:09,563 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 149, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:05Z'}
+2023-11-16 14:12:09,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:10,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:14,546 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:14,547 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 150, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:10Z'}
+2023-11-16 14:12:14,547 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:15,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:19,548 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:19,549 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 151, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:15Z'}
+2023-11-16 14:12:19,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:20,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:24,545 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:24,546 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 152, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:20Z'}
+2023-11-16 14:12:24,547 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:25,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:29,553 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:29,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 153, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:25Z'}
+2023-11-16 14:12:29,555 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:30,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:34,562 - basicLogger - INFO - Received 1 car events and 0 bike events
+2023-11-16 14:12:34,563 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 154, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:30Z'}
+2023-11-16 14:12:34,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:35,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:39,559 - basicLogger - INFO - Received 3 car events and 0 bike events
+2023-11-16 14:12:39,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 157, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:35Z'}
+2023-11-16 14:12:39,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:40,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:44,551 - basicLogger - INFO - Received 3 car events and 0 bike events
+2023-11-16 14:12:44,552 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 160, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:40Z'}
+2023-11-16 14:12:44,552 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:45,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:49,576 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:12:49,577 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 162, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:45Z'}
+2023-11-16 14:12:49,577 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:50,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:54,545 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:12:54,546 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 164, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:50Z'}
+2023-11-16 14:12:54,546 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:12:55,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:12:59,556 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:12:59,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 166, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:12:55Z'}
+2023-11-16 14:12:59,557 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:00,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:04,564 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:04,565 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 168, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:00Z'}
+2023-11-16 14:13:04,565 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:05,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:09,552 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:09,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 170, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:05Z'}
+2023-11-16 14:13:09,554 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:10,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:14,561 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:14,561 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 172, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:10Z'}
+2023-11-16 14:13:14,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:15,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:19,551 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:19,553 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 174, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:15Z'}
+2023-11-16 14:13:19,553 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:20,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:24,574 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:24,575 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 176, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:20Z'}
+2023-11-16 14:13:24,576 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:25,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:29,562 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:29,563 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 178, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:25Z'}
+2023-11-16 14:13:29,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:30,062 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:34,609 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:34,611 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 180, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:30Z'}
+2023-11-16 14:13:34,611 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:35,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:39,549 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:39,550 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 182, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:35Z'}
+2023-11-16 14:13:39,551 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:40,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:44,517 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:44,517 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 184, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:40Z'}
+2023-11-16 14:13:44,518 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:45,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:49,531 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:49,532 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 186, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:45Z'}
+2023-11-16 14:13:49,532 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:50,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:54,536 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:54,537 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 188, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:50Z'}
+2023-11-16 14:13:54,537 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:13:55,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:13:59,569 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:13:59,570 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 190, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:13:55Z'}
+2023-11-16 14:13:59,570 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:00,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:04,557 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:04,559 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 192, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:00Z'}
+2023-11-16 14:14:04,559 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:05,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:09,557 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:09,559 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 194, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:05Z'}
+2023-11-16 14:14:09,559 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:10,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:14,559 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:14,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 196, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:10Z'}
+2023-11-16 14:14:14,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:15,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:19,563 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:19,564 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 198, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:15Z'}
+2023-11-16 14:14:19,565 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:20,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:24,548 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:24,549 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 200, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:20Z'}
+2023-11-16 14:14:24,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:25,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:29,552 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:29,553 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 202, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:25Z'}
+2023-11-16 14:14:29,553 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:30,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:34,573 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:34,574 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 204, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:30Z'}
+2023-11-16 14:14:34,574 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:35,059 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:39,572 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:39,573 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 206, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:35Z'}
+2023-11-16 14:14:39,573 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:40,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:44,560 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:44,561 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 208, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:40Z'}
+2023-11-16 14:14:44,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:45,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:49,559 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:49,560 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 210, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:45Z'}
+2023-11-16 14:14:49,561 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:50,058 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:54,569 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:54,570 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 212, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:50Z'}
+2023-11-16 14:14:54,570 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:14:55,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:14:59,534 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:14:59,535 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 214, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:14:55Z'}
+2023-11-16 14:14:59,535 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:00,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:04,575 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:04,576 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 216, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:00Z'}
+2023-11-16 14:15:04,577 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:05,064 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:09,571 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:09,571 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 218, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:05Z'}
+2023-11-16 14:15:09,572 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:10,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:14,614 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:14,615 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 220, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:10Z'}
+2023-11-16 14:15:14,616 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:15,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:19,569 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:19,570 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 222, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:15Z'}
+2023-11-16 14:15:19,571 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:20,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:24,566 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:24,566 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 224, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:20Z'}
+2023-11-16 14:15:24,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:25,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:29,544 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:29,545 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 226, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:25Z'}
+2023-11-16 14:15:29,545 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:30,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:34,582 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:34,582 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 228, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:30Z'}
+2023-11-16 14:15:34,584 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:35,051 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:39,548 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:39,549 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 230, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:35Z'}
+2023-11-16 14:15:39,549 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:40,061 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:44,587 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:44,588 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 232, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:40Z'}
+2023-11-16 14:15:44,588 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:45,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:49,567 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:49,568 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 234, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:45Z'}
+2023-11-16 14:15:49,568 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:50,052 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:54,569 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:54,570 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 236, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:50Z'}
+2023-11-16 14:15:54,570 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:15:55,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:15:59,574 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:15:59,574 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 238, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:15:55Z'}
+2023-11-16 14:15:59,575 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:00,063 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:04,557 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:04,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 240, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:00Z'}
+2023-11-16 14:16:04,558 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:05,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:09,573 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:09,574 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 242, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:05Z'}
+2023-11-16 14:16:09,574 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:10,053 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:14,569 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:14,570 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 244, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:10Z'}
+2023-11-16 14:16:14,570 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:15,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:19,550 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:19,551 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 246, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:15Z'}
+2023-11-16 14:16:19,551 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:20,065 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:24,562 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:24,563 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 248, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:20Z'}
+2023-11-16 14:16:24,563 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:25,055 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:29,553 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:29,554 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 250, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:25Z'}
+2023-11-16 14:16:29,554 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:30,063 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:34,556 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:34,557 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 252, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:30Z'}
+2023-11-16 14:16:34,557 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:35,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:39,558 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:39,559 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 254, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:35Z'}
+2023-11-16 14:16:39,559 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:40,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:44,555 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:44,556 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 256, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:40Z'}
+2023-11-16 14:16:44,556 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:45,057 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:49,534 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:49,535 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 258, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:45Z'}
+2023-11-16 14:16:49,535 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:50,056 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:54,509 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:54,510 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 260, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:50Z'}
+2023-11-16 14:16:54,510 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:16:55,054 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:16:59,568 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:16:59,568 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 262, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:16:55Z'}
+2023-11-16 14:16:59,569 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:17:00,065 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:17:04,566 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:17:04,567 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 264, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:17:00Z'}
+2023-11-16 14:17:04,567 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:17:05,060 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:17:09,561 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:17:09,562 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 266, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:17:05Z'}
+2023-11-16 14:17:09,562 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:17:10,063 - basicLogger - INFO - Start Periodic Processing
+2023-11-16 14:17:14,546 - basicLogger - INFO - Received 2 car events and 0 bike events
+2023-11-16 14:17:14,547 - basicLogger - DEBUG - Updated Stats: {'num_car_parkings': 268, 'max_car_cost': 9967, 'num_bike_events': 160, 'max_bike_cost': 12, 'last_updated': '2023-11-16T14:17:10Z'}
+2023-11-16 14:17:14,548 - basicLogger - INFO - End Periodic Processing
+2023-11-16 14:17:15,063 - basicLogger - INFO - Start Periodic Processing

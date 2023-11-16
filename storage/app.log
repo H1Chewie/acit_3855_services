@@ -452,3 +452,600 @@
 2023-11-15 19:49:45,293 - basicLogger - INFO - Query for parked cars after2023-11-15T19:49:38Z returns 0 results
 2023-11-15 19:49:47,577 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:49:38Z returns 0 results
 2023-11-15 19:49:50,631 - basicLogger - INFO - Query for parked cars after2023-11-15T19:49:43Z returns 0 results
+2023-11-15 19:55:42,118 - basicLogger - INFO - Query for parked cars after2023-11-15T19:49:43Z returns 0 results
+2023-11-15 19:55:44,413 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:49:43Z returns 0 results
+2023-11-15 19:55:51,091 - basicLogger - INFO - Query for parked cars after2023-11-15T19:55:38Z returns 0 results
+2023-11-15 19:55:53,410 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:55:38Z returns 0 results
+2023-11-15 19:55:56,173 - basicLogger - INFO - Query for parked cars after2023-11-15T19:55:48Z returns 0 results
+2023-11-15 19:55:58,486 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:55:48Z returns 0 results
+2023-11-15 19:56:01,073 - basicLogger - INFO - Query for parked cars after2023-11-15T19:55:53Z returns 0 results
+2023-11-15 19:56:03,378 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:55:53Z returns 0 results
+2023-11-15 19:56:06,079 - basicLogger - INFO - Query for parked cars after2023-11-15T19:55:58Z returns 0 results
+2023-11-15 19:56:08,377 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:55:58Z returns 0 results
+2023-11-15 19:56:11,072 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:03Z returns 0 results
+2023-11-15 19:56:13,364 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:03Z returns 0 results
+2023-11-15 19:56:16,102 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:08Z returns 0 results
+2023-11-15 19:56:18,363 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:08Z returns 0 results
+2023-11-15 19:56:21,073 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:13Z returns 0 results
+2023-11-15 19:56:23,376 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:13Z returns 0 results
+2023-11-15 19:56:26,075 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:18Z returns 0 results
+2023-11-15 19:56:28,449 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:18Z returns 0 results
+2023-11-15 19:56:31,077 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:23Z returns 0 results
+2023-11-15 19:56:33,375 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:23Z returns 0 results
+2023-11-15 19:56:36,385 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:28Z returns 0 results
+2023-11-15 19:56:38,711 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:28Z returns 0 results
+2023-11-15 19:56:41,090 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:33Z returns 0 results
+2023-11-15 19:56:43,392 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:33Z returns 0 results
+2023-11-15 19:56:46,335 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:38Z returns 0 results
+2023-11-15 19:56:48,640 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:38Z returns 0 results
+2023-11-15 19:56:51,089 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:43Z returns 0 results
+2023-11-15 19:56:53,389 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:43Z returns 0 results
+2023-11-15 19:56:56,068 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:48Z returns 0 results
+2023-11-15 19:56:58,400 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:48Z returns 0 results
+2023-11-15 19:56:59,057 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:56:58', 'payload': {'bike_id': 90618, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 239, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'fbe08f0d-e0f8-4fcc-9b30-74a9ac932c36'}}
+2023-11-15 19:57:00,506 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:56:58', 'payload': {'bike_id': 16061, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 483, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '14708333-f878-4755-9c55-c5595761039a'}}
+2023-11-15 19:57:00,840 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:56:59', 'payload': {'bike_id': 26524, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 452, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'fcb4c154-a2b8-4721-a60b-2f5c052ac60f'}}
+2023-11-15 19:57:01,084 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:53Z returns 0 results
+2023-11-15 19:57:01,183 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:56:59', 'payload': {'bike_id': 14013, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 499, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'd7e24e73-d5af-4ae0-96a1-eb28fa602b41'}}
+2023-11-15 19:57:01,528 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:56:59', 'payload': {'bike_id': 95767, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 29, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'c9aabb07-88e9-4330-a1db-55884e43c363'}}
+2023-11-15 19:57:03,396 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:53Z returns 5 results
+2023-11-15 19:57:04,243 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:04', 'payload': {'cost': 7452, 'email': 'abcedf@gmail.com', 'hours_parked': 239, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '4301d7e3-694f-45c0-ad0d-1169e9586e28'}}
+2023-11-15 19:57:04,244 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:04,244 - basicLogger - INFO - cpt Data: {'cost': 7452, 'email': 'abcedf@gmail.com', 'hours_parked': 239, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '4301d7e3-694f-45c0-ad0d-1169e9586e28'}
+2023-11-15 19:57:04,677 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:04', 'payload': {'cost': 6191, 'email': 'abcedf@gmail.com', 'hours_parked': 483, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '576c2f5d-3fbf-4cd8-996a-d9d0e589d8ef'}}
+2023-11-15 19:57:04,677 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:04,677 - basicLogger - INFO - cpt Data: {'cost': 6191, 'email': 'abcedf@gmail.com', 'hours_parked': 483, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '576c2f5d-3fbf-4cd8-996a-d9d0e589d8ef'}
+2023-11-15 19:57:05,029 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:04', 'payload': {'cost': 8557, 'email': 'abcedf@gmail.com', 'hours_parked': 452, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '17dd1525-4fec-40c5-9815-55791c06e87f'}}
+2023-11-15 19:57:05,030 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:05,030 - basicLogger - INFO - cpt Data: {'cost': 8557, 'email': 'abcedf@gmail.com', 'hours_parked': 452, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '17dd1525-4fec-40c5-9815-55791c06e87f'}
+2023-11-15 19:57:05,374 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:04', 'payload': {'cost': 6024, 'email': 'abcedf@gmail.com', 'hours_parked': 499, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a2e2c4cb-9dae-40c1-9f15-54bd2831ef48'}}
+2023-11-15 19:57:05,375 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:05,375 - basicLogger - INFO - cpt Data: {'cost': 6024, 'email': 'abcedf@gmail.com', 'hours_parked': 499, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a2e2c4cb-9dae-40c1-9f15-54bd2831ef48'}
+2023-11-15 19:57:05,712 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:04', 'payload': {'cost': 473, 'email': 'abcedf@gmail.com', 'hours_parked': 29, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '0ff0e05b-47d4-4575-889e-efec68d8d9d7'}}
+2023-11-15 19:57:05,712 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:05,713 - basicLogger - INFO - cpt Data: {'cost': 473, 'email': 'abcedf@gmail.com', 'hours_parked': 29, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '0ff0e05b-47d4-4575-889e-efec68d8d9d7'}
+2023-11-15 19:57:06,089 - basicLogger - INFO - Query for parked cars after2023-11-15T19:56:58Z returns 5 results
+2023-11-15 19:57:08,465 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:56:58Z returns 5 results
+2023-11-15 19:57:09,462 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:09', 'payload': {'bike_id': 45737, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 118, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '4722b065-e878-4075-aef9-83baec71820c'}}
+2023-11-15 19:57:09,823 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:09', 'payload': {'bike_id': 89899, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 292, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'cdd4c9aa-1e81-46cf-a313-fa66b8ce7644'}}
+2023-11-15 19:57:10,515 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:09', 'payload': {'bike_id': 55432, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 476, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '405eb6dd-8f29-4ec3-89d1-34989a5917cc'}}
+2023-11-15 19:57:10,856 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:09', 'payload': {'bike_id': 85362, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 336, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '063bc500-8196-48b0-aef3-49f047278c1b'}}
+2023-11-15 19:57:11,090 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:03Z returns 5 results
+2023-11-15 19:57:11,193 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:09', 'payload': {'bike_id': 62625, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 438, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '7b93f386-98f8-4129-a739-983773e9ceb5'}}
+2023-11-15 19:57:13,401 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:03Z returns 5 results
+2023-11-15 19:57:14,680 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:14', 'payload': {'cost': 6007, 'email': 'abcedf@gmail.com', 'hours_parked': 292, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1da601cc-0d3c-4524-afd8-582f572a901b'}}
+2023-11-15 19:57:14,680 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:14,680 - basicLogger - INFO - cpt Data: {'cost': 6007, 'email': 'abcedf@gmail.com', 'hours_parked': 292, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1da601cc-0d3c-4524-afd8-582f572a901b'}
+2023-11-15 19:57:15,043 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:14', 'payload': {'cost': 4089, 'email': 'abcedf@gmail.com', 'hours_parked': 118, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9324cb98-e126-42bc-9725-803b9af4c919'}}
+2023-11-15 19:57:15,043 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:15,043 - basicLogger - INFO - cpt Data: {'cost': 4089, 'email': 'abcedf@gmail.com', 'hours_parked': 118, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9324cb98-e126-42bc-9725-803b9af4c919'}
+2023-11-15 19:57:15,388 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:14', 'payload': {'cost': 6483, 'email': 'abcedf@gmail.com', 'hours_parked': 476, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '5809fc74-a749-4efd-ba67-eb1c0b05abda'}}
+2023-11-15 19:57:15,388 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:15,389 - basicLogger - INFO - cpt Data: {'cost': 6483, 'email': 'abcedf@gmail.com', 'hours_parked': 476, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '5809fc74-a749-4efd-ba67-eb1c0b05abda'}
+2023-11-15 19:57:15,721 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:14', 'payload': {'cost': 7323, 'email': 'abcedf@gmail.com', 'hours_parked': 336, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '085c9b1f-53a3-4922-95f8-dd8099bcdaad'}}
+2023-11-15 19:57:15,722 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:15,722 - basicLogger - INFO - cpt Data: {'cost': 7323, 'email': 'abcedf@gmail.com', 'hours_parked': 336, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '085c9b1f-53a3-4922-95f8-dd8099bcdaad'}
+2023-11-15 19:57:16,068 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:15', 'payload': {'cost': 4946, 'email': 'abcedf@gmail.com', 'hours_parked': 438, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '6a7a0a5b-9a36-4fae-a5fb-68df7d6c042f'}}
+2023-11-15 19:57:16,068 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:16,069 - basicLogger - INFO - cpt Data: {'cost': 4946, 'email': 'abcedf@gmail.com', 'hours_parked': 438, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '6a7a0a5b-9a36-4fae-a5fb-68df7d6c042f'}
+2023-11-15 19:57:16,419 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:08Z returns 4 results
+2023-11-15 19:57:18,718 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:08Z returns 5 results
+2023-11-15 19:57:19,898 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:19', 'payload': {'bike_id': 96384, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 211, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '2e3d4a00-a434-41eb-98c0-1af718cf36d7'}}
+2023-11-15 19:57:20,242 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:19', 'payload': {'bike_id': 69101, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 472, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '24798cca-ca1f-421d-9930-0010ceb542ac'}}
+2023-11-15 19:57:20,585 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:20', 'payload': {'bike_id': 99344, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 21, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'b47d4e06-4b14-4fc2-920b-9f7c1e342323'}}
+2023-11-15 19:57:20,928 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:20', 'payload': {'bike_id': 7113, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 159, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'e3b5a398-95ca-40e0-a7e2-bb7d59cfa3e2'}}
+2023-11-15 19:57:21,209 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:13Z returns 5 results
+2023-11-15 19:57:21,275 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:20', 'payload': {'bike_id': 67911, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 101, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '73ebc264-95d5-4bd2-923a-9d5218e0decf'}}
+2023-11-15 19:57:23,523 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:13Z returns 5 results
+2023-11-15 19:57:25,128 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:25', 'payload': {'cost': 2488, 'email': 'abcedf@gmail.com', 'hours_parked': 472, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '548ab41f-8bc1-44a5-ba76-783ebcd5154e'}}
+2023-11-15 19:57:25,128 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:25,129 - basicLogger - INFO - cpt Data: {'cost': 2488, 'email': 'abcedf@gmail.com', 'hours_parked': 472, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '548ab41f-8bc1-44a5-ba76-783ebcd5154e'}
+2023-11-15 19:57:25,821 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:25', 'payload': {'cost': 3226, 'email': 'abcedf@gmail.com', 'hours_parked': 211, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a5694bbb-73bd-4203-9f26-a7b73580f6ed'}}
+2023-11-15 19:57:25,821 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:25,821 - basicLogger - INFO - cpt Data: {'cost': 3226, 'email': 'abcedf@gmail.com', 'hours_parked': 211, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a5694bbb-73bd-4203-9f26-a7b73580f6ed'}
+2023-11-15 19:57:26,103 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:18Z returns 1 results
+2023-11-15 19:57:26,177 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:25', 'payload': {'cost': 4050, 'email': 'abcedf@gmail.com', 'hours_parked': 21, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '55b7dbff-fda4-4c8d-8270-b509c11bbf22'}}
+2023-11-15 19:57:26,177 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:26,178 - basicLogger - INFO - cpt Data: {'cost': 4050, 'email': 'abcedf@gmail.com', 'hours_parked': 21, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '55b7dbff-fda4-4c8d-8270-b509c11bbf22'}
+2023-11-15 19:57:26,518 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:25', 'payload': {'cost': 1035, 'email': 'abcedf@gmail.com', 'hours_parked': 159, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1283fefc-d007-4e87-8b4d-c14c65682dcd'}}
+2023-11-15 19:57:26,519 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:26,519 - basicLogger - INFO - cpt Data: {'cost': 1035, 'email': 'abcedf@gmail.com', 'hours_parked': 159, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1283fefc-d007-4e87-8b4d-c14c65682dcd'}
+2023-11-15 19:57:26,856 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:25', 'payload': {'cost': 2443, 'email': 'abcedf@gmail.com', 'hours_parked': 101, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '30deff85-2123-4a23-a849-4b952f43a46f'}}
+2023-11-15 19:57:26,856 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:26,856 - basicLogger - INFO - cpt Data: {'cost': 2443, 'email': 'abcedf@gmail.com', 'hours_parked': 101, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '30deff85-2123-4a23-a849-4b952f43a46f'}
+2023-11-15 19:57:28,413 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:18Z returns 5 results
+2023-11-15 19:57:30,471 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:30', 'payload': {'bike_id': 83191, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 499, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '5b669caf-58e9-491a-8e0b-09534e760ef7'}}
+2023-11-15 19:57:31,105 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:23Z returns 5 results
+2023-11-15 19:57:31,135 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:30', 'payload': {'bike_id': 2161, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 164, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '385303a9-8957-409b-9f4b-9804a6d2028a'}}
+2023-11-15 19:57:31,476 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:30', 'payload': {'bike_id': 22094, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 102, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '9426b3db-d730-4e94-b00b-d27bdc3f237f'}}
+2023-11-15 19:57:31,807 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:30', 'payload': {'bike_id': 74390, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 290, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '7f28050a-83c7-4d5e-bc7e-5007cb1ea702'}}
+2023-11-15 19:57:32,144 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:30', 'payload': {'bike_id': 71398, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 34, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'c59cd7ac-1bc9-436a-9316-f0dfb870c36f'}}
+2023-11-15 19:57:33,409 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:23Z returns 5 results
+2023-11-15 19:57:35,620 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:35', 'payload': {'cost': 7751, 'email': 'abcedf@gmail.com', 'hours_parked': 499, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9bb59716-b526-4c3e-94f8-3a5fc42a8806'}}
+2023-11-15 19:57:35,620 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:35,621 - basicLogger - INFO - cpt Data: {'cost': 7751, 'email': 'abcedf@gmail.com', 'hours_parked': 499, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9bb59716-b526-4c3e-94f8-3a5fc42a8806'}
+2023-11-15 19:57:35,987 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:35', 'payload': {'cost': 8818, 'email': 'abcedf@gmail.com', 'hours_parked': 164, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '27482ad2-7c1a-47f7-a04a-ca04bd366a76'}}
+2023-11-15 19:57:35,987 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:35,987 - basicLogger - INFO - cpt Data: {'cost': 8818, 'email': 'abcedf@gmail.com', 'hours_parked': 164, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '27482ad2-7c1a-47f7-a04a-ca04bd366a76'}
+2023-11-15 19:57:36,082 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:28Z returns 1 results
+2023-11-15 19:57:36,361 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:35', 'payload': {'cost': 6247, 'email': 'abcedf@gmail.com', 'hours_parked': 102, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '3592358d-d29e-4bec-b7be-e05ed92a2ac5'}}
+2023-11-15 19:57:36,362 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:36,362 - basicLogger - INFO - cpt Data: {'cost': 6247, 'email': 'abcedf@gmail.com', 'hours_parked': 102, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '3592358d-d29e-4bec-b7be-e05ed92a2ac5'}
+2023-11-15 19:57:36,724 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:35', 'payload': {'cost': 3590, 'email': 'abcedf@gmail.com', 'hours_parked': 290, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'f85b8f55-6a3b-4458-89f3-de56e7378a4b'}}
+2023-11-15 19:57:36,726 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:36,726 - basicLogger - INFO - cpt Data: {'cost': 3590, 'email': 'abcedf@gmail.com', 'hours_parked': 290, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'f85b8f55-6a3b-4458-89f3-de56e7378a4b'}
+2023-11-15 19:57:37,071 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:36', 'payload': {'cost': 9640, 'email': 'abcedf@gmail.com', 'hours_parked': 34, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ff4b8267-45cc-46ca-b033-ebc6fe008bd1'}}
+2023-11-15 19:57:37,072 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:37,072 - basicLogger - INFO - cpt Data: {'cost': 9640, 'email': 'abcedf@gmail.com', 'hours_parked': 34, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ff4b8267-45cc-46ca-b033-ebc6fe008bd1'}
+2023-11-15 19:57:39,010 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:28Z returns 5 results
+2023-11-15 19:57:41,150 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:40', 'payload': {'bike_id': 34571, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 319, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '99990035-f8d3-4530-adaa-061102260803'}}
+2023-11-15 19:57:41,703 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:40', 'payload': {'bike_id': 44626, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 437, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '49297414-af61-4d01-b200-e4636caa74fd'}}
+2023-11-15 19:57:42,152 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:41', 'payload': {'bike_id': 81468, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 265, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '82ea2b72-3a6a-435e-b5b3-1b5c5d050870'}}
+2023-11-15 19:57:42,503 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:41', 'payload': {'bike_id': 87618, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 76, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '566ad27a-b23a-4094-badb-caea4436103c'}}
+2023-11-15 19:57:42,853 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:41', 'payload': {'bike_id': 59102, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 70, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '29afa849-c87f-42cd-90b4-dfaa1315fa8c'}}
+2023-11-15 19:57:46,101 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:33Z returns 5 results
+2023-11-15 19:57:46,291 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:46', 'payload': {'cost': 4797, 'email': 'abcedf@gmail.com', 'hours_parked': 319, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '41769374-5ce8-4b80-9a64-71130f3d2790'}}
+2023-11-15 19:57:46,291 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:46,291 - basicLogger - INFO - cpt Data: {'cost': 4797, 'email': 'abcedf@gmail.com', 'hours_parked': 319, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '41769374-5ce8-4b80-9a64-71130f3d2790'}
+2023-11-15 19:57:47,066 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:46', 'payload': {'cost': 9411, 'email': 'abcedf@gmail.com', 'hours_parked': 437, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '52961408-0a17-4550-8c4c-782a3d749779'}}
+2023-11-15 19:57:47,066 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:47,067 - basicLogger - INFO - cpt Data: {'cost': 9411, 'email': 'abcedf@gmail.com', 'hours_parked': 437, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '52961408-0a17-4550-8c4c-782a3d749779'}
+2023-11-15 19:57:47,409 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:46', 'payload': {'cost': 6276, 'email': 'abcedf@gmail.com', 'hours_parked': 265, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '6be64d2f-b1ff-416d-96a1-81e742a1f4df'}}
+2023-11-15 19:57:47,410 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:47,410 - basicLogger - INFO - cpt Data: {'cost': 6276, 'email': 'abcedf@gmail.com', 'hours_parked': 265, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '6be64d2f-b1ff-416d-96a1-81e742a1f4df'}
+2023-11-15 19:57:47,747 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:46', 'payload': {'cost': 8312, 'email': 'abcedf@gmail.com', 'hours_parked': 76, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '40005041-ed0e-491d-8055-760a6e1fcb88'}}
+2023-11-15 19:57:47,748 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:47,748 - basicLogger - INFO - cpt Data: {'cost': 8312, 'email': 'abcedf@gmail.com', 'hours_parked': 76, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '40005041-ed0e-491d-8055-760a6e1fcb88'}
+2023-11-15 19:57:48,085 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:46', 'payload': {'cost': 7642, 'email': 'abcedf@gmail.com', 'hours_parked': 70, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a7873793-63d1-457f-a0e1-0ef1d069521f'}}
+2023-11-15 19:57:48,085 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:48,085 - basicLogger - INFO - cpt Data: {'cost': 7642, 'email': 'abcedf@gmail.com', 'hours_parked': 70, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a7873793-63d1-457f-a0e1-0ef1d069521f'}
+2023-11-15 19:57:48,419 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:33Z returns 5 results
+2023-11-15 19:57:51,080 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:43Z returns 5 results
+2023-11-15 19:57:51,472 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:51', 'payload': {'bike_id': 75342, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 228, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'fd1c030b-5498-4476-b0ef-438d380cbaf3'}}
+2023-11-15 19:57:51,822 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:51', 'payload': {'bike_id': 14182, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 467, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '21492dd9-f770-4220-8e5a-b06df05b71ab'}}
+2023-11-15 19:57:52,162 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:51', 'payload': {'bike_id': 98221, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 26, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'e190b7fa-934d-4c75-b174-1ed40fc84c94'}}
+2023-11-15 19:57:52,488 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:51', 'payload': {'bike_id': 59212, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 463, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '39e638d7-68bf-4a5f-aa57-efe3fc2a04ef'}}
+2023-11-15 19:57:52,816 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:57:51', 'payload': {'bike_id': 70046, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 485, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'a3f17cb4-7cc9-4f8c-b75d-c3f88d10ffc7'}}
+2023-11-15 19:57:53,700 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:43Z returns 7 results
+2023-11-15 19:57:56,083 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:48Z returns 2 results
+2023-11-15 19:57:56,681 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:56', 'payload': {'cost': 1970, 'email': 'abcedf@gmail.com', 'hours_parked': 467, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'd9c22152-d31f-4f1a-bb52-53e1e42d5f04'}}
+2023-11-15 19:57:56,681 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:56,682 - basicLogger - INFO - cpt Data: {'cost': 1970, 'email': 'abcedf@gmail.com', 'hours_parked': 467, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'd9c22152-d31f-4f1a-bb52-53e1e42d5f04'}
+2023-11-15 19:57:57,049 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:56', 'payload': {'cost': 3925, 'email': 'abcedf@gmail.com', 'hours_parked': 228, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'b503cd7e-0cab-4c83-bb3d-a90f2c45876f'}}
+2023-11-15 19:57:57,049 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:57,050 - basicLogger - INFO - cpt Data: {'cost': 3925, 'email': 'abcedf@gmail.com', 'hours_parked': 228, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'b503cd7e-0cab-4c83-bb3d-a90f2c45876f'}
+2023-11-15 19:57:57,385 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:56', 'payload': {'cost': 9967, 'email': 'abcedf@gmail.com', 'hours_parked': 26, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '7114354d-0000-4ad8-ac3a-ea0d8119a409'}}
+2023-11-15 19:57:57,386 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:57,386 - basicLogger - INFO - cpt Data: {'cost': 9967, 'email': 'abcedf@gmail.com', 'hours_parked': 26, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '7114354d-0000-4ad8-ac3a-ea0d8119a409'}
+2023-11-15 19:57:57,722 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:56', 'payload': {'cost': 5470, 'email': 'abcedf@gmail.com', 'hours_parked': 463, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '4e51b8c5-5cc4-4483-99dc-d4e77fc348b3'}}
+2023-11-15 19:57:57,723 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:57,723 - basicLogger - INFO - cpt Data: {'cost': 5470, 'email': 'abcedf@gmail.com', 'hours_parked': 463, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '4e51b8c5-5cc4-4483-99dc-d4e77fc348b3'}
+2023-11-15 19:57:58,062 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:57:57', 'payload': {'cost': 3096, 'email': 'abcedf@gmail.com', 'hours_parked': 485, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ba2217ab-7b3c-4ace-9f95-8d7076e270a9'}}
+2023-11-15 19:57:58,062 - basicLogger - INFO - Processing Event1
+2023-11-15 19:57:58,062 - basicLogger - INFO - cpt Data: {'cost': 3096, 'email': 'abcedf@gmail.com', 'hours_parked': 485, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ba2217ab-7b3c-4ace-9f95-8d7076e270a9'}
+2023-11-15 19:57:58,362 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:48Z returns 5 results
+2023-11-15 19:58:01,407 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:53Z returns 5 results
+2023-11-15 19:58:01,999 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:01', 'payload': {'bike_id': 85451, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 367, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '97636b81-658b-43a8-8219-0b8d58977d7c'}}
+2023-11-15 19:58:02,381 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:01', 'payload': {'bike_id': 6194, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 341, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'ea578760-1a7f-4b84-948c-f9bae81e0089'}}
+2023-11-15 19:58:02,730 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:01', 'payload': {'bike_id': 37507, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 53, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '94125e86-3b04-4d0a-9e64-fc6a0feae028'}}
+2023-11-15 19:58:03,068 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:02', 'payload': {'bike_id': 55421, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 314, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'eeaa7a88-fc94-40b7-ae61-864b919c1c0c'}}
+2023-11-15 19:58:03,405 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:02', 'payload': {'bike_id': 34655, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 20, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '9801b038-ee75-41a1-bb34-1fd55cdf9bb4'}}
+2023-11-15 19:58:03,718 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:53Z returns 5 results
+2023-11-15 19:58:06,084 - basicLogger - INFO - Query for parked cars after2023-11-15T19:57:58Z returns 2 results
+2023-11-15 19:58:07,273 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:07', 'payload': {'cost': 9608, 'email': 'abcedf@gmail.com', 'hours_parked': 341, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a9093335-fec0-4f0e-a6bd-69d50b5d2d3d'}}
+2023-11-15 19:58:07,273 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:07,274 - basicLogger - INFO - cpt Data: {'cost': 9608, 'email': 'abcedf@gmail.com', 'hours_parked': 341, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a9093335-fec0-4f0e-a6bd-69d50b5d2d3d'}
+2023-11-15 19:58:07,667 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:07', 'payload': {'cost': 160, 'email': 'abcedf@gmail.com', 'hours_parked': 53, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1ba7eeb7-f68b-45c5-bd45-623c784381ca'}}
+2023-11-15 19:58:07,667 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:07,668 - basicLogger - INFO - cpt Data: {'cost': 160, 'email': 'abcedf@gmail.com', 'hours_parked': 53, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1ba7eeb7-f68b-45c5-bd45-623c784381ca'}
+2023-11-15 19:58:08,072 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:07', 'payload': {'cost': 1598, 'email': 'abcedf@gmail.com', 'hours_parked': 367, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'b51e6356-bc38-4c7b-b5ef-5ab854fc387c'}}
+2023-11-15 19:58:08,073 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:08,073 - basicLogger - INFO - cpt Data: {'cost': 1598, 'email': 'abcedf@gmail.com', 'hours_parked': 367, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'b51e6356-bc38-4c7b-b5ef-5ab854fc387c'}
+2023-11-15 19:58:08,589 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:57:58Z returns 5 results
+2023-11-15 19:58:08,589 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:07', 'payload': {'cost': 5308, 'email': 'abcedf@gmail.com', 'hours_parked': 314, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '0fd7da3c-6c66-4622-b7fe-656eb3552599'}}
+2023-11-15 19:58:08,591 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:08,591 - basicLogger - INFO - cpt Data: {'cost': 5308, 'email': 'abcedf@gmail.com', 'hours_parked': 314, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '0fd7da3c-6c66-4622-b7fe-656eb3552599'}
+2023-11-15 19:58:09,146 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:07', 'payload': {'cost': 4022, 'email': 'abcedf@gmail.com', 'hours_parked': 20, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'fe79ff2c-01e3-4ce5-a785-aaa6212a1184'}}
+2023-11-15 19:58:09,146 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:09,147 - basicLogger - INFO - cpt Data: {'cost': 4022, 'email': 'abcedf@gmail.com', 'hours_parked': 20, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'fe79ff2c-01e3-4ce5-a785-aaa6212a1184'}
+2023-11-15 19:58:11,104 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:03Z returns 5 results
+2023-11-15 19:58:12,456 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:12', 'payload': {'bike_id': 43013, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 187, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '86b8da4d-4bf3-4e5d-b80a-51b9185b1b4f'}}
+2023-11-15 19:58:12,917 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:12', 'payload': {'bike_id': 89417, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 430, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'b6e76f39-9b63-46cb-aad6-3ddcd7b27adc'}}
+2023-11-15 19:58:13,259 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:12', 'payload': {'bike_id': 53278, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 413, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '5b158395-819e-492e-a525-8391f86d40c7'}}
+2023-11-15 19:58:13,417 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:03Z returns 5 results
+2023-11-15 19:58:13,597 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:12', 'payload': {'bike_id': 44999, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 297, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '4d530775-fe15-49ad-b391-bf81eeff2a66'}}
+2023-11-15 19:58:13,938 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:12', 'payload': {'bike_id': 92307, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 102, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'f25708cf-2e03-4b17-a07f-ae078d41c1f0'}}
+2023-11-15 19:58:16,106 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:08Z returns 4 results
+2023-11-15 19:58:17,677 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:17', 'payload': {'cost': 4942, 'email': 'abcedf@gmail.com', 'hours_parked': 187, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '300b7022-525c-42c8-89ad-53035bed6cb3'}}
+2023-11-15 19:58:17,677 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:17,678 - basicLogger - INFO - cpt Data: {'cost': 4942, 'email': 'abcedf@gmail.com', 'hours_parked': 187, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '300b7022-525c-42c8-89ad-53035bed6cb3'}
+2023-11-15 19:58:18,030 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:17', 'payload': {'cost': 619, 'email': 'abcedf@gmail.com', 'hours_parked': 430, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '7e7d5025-6633-4c6a-9df2-ea0d626edb6c'}}
+2023-11-15 19:58:18,031 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:18,031 - basicLogger - INFO - cpt Data: {'cost': 619, 'email': 'abcedf@gmail.com', 'hours_parked': 430, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '7e7d5025-6633-4c6a-9df2-ea0d626edb6c'}
+2023-11-15 19:58:18,368 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:17', 'payload': {'cost': 1935, 'email': 'abcedf@gmail.com', 'hours_parked': 413, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1b47fe38-fb03-4b9b-9022-66d83c9469fe'}}
+2023-11-15 19:58:18,368 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:18,368 - basicLogger - INFO - cpt Data: {'cost': 1935, 'email': 'abcedf@gmail.com', 'hours_parked': 413, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '1b47fe38-fb03-4b9b-9022-66d83c9469fe'}
+2023-11-15 19:58:18,388 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:08Z returns 5 results
+2023-11-15 19:58:18,701 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:17', 'payload': {'cost': 6183, 'email': 'abcedf@gmail.com', 'hours_parked': 297, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'bb56dd30-53ea-49a2-968b-b84e5281e757'}}
+2023-11-15 19:58:18,701 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:18,701 - basicLogger - INFO - cpt Data: {'cost': 6183, 'email': 'abcedf@gmail.com', 'hours_parked': 297, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'bb56dd30-53ea-49a2-968b-b84e5281e757'}
+2023-11-15 19:58:19,037 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:18', 'payload': {'cost': 4201, 'email': 'abcedf@gmail.com', 'hours_parked': 102, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'e61abeab-9480-4a88-ba3f-dec32938f015'}}
+2023-11-15 19:58:19,038 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:19,038 - basicLogger - INFO - cpt Data: {'cost': 4201, 'email': 'abcedf@gmail.com', 'hours_parked': 102, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'e61abeab-9480-4a88-ba3f-dec32938f015'}
+2023-11-15 19:58:21,082 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:13Z returns 5 results
+2023-11-15 19:58:22,912 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:22', 'payload': {'bike_id': 5294, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 27, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'c6edc0bd-7fd8-44e7-8126-c5b9103b1543'}}
+2023-11-15 19:58:23,260 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:22', 'payload': {'bike_id': 99249, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 383, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '3265eab4-d9a6-483f-8079-2f606194ab95'}}
+2023-11-15 19:58:23,387 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:13Z returns 5 results
+2023-11-15 19:58:23,616 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:22', 'payload': {'bike_id': 14499, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 8, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '45d9f99e-a189-4d2a-a782-adf1e5251543'}}
+2023-11-15 19:58:23,969 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:22', 'payload': {'bike_id': 59561, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 303, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'da938f94-775b-4bc1-b908-c00b55f9984d'}}
+2023-11-15 19:58:24,306 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:23', 'payload': {'bike_id': 6616, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 93, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '5e9713e5-794e-4fb5-ad79-08198d06ce97'}}
+2023-11-15 19:58:26,089 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:18Z returns 5 results
+2023-11-15 19:58:28,146 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:28', 'payload': {'cost': 3582, 'email': 'abcedf@gmail.com', 'hours_parked': 8, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ee3fa8db-c3fd-44c6-9a0d-7f4898622221'}}
+2023-11-15 19:58:28,146 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:28,146 - basicLogger - INFO - cpt Data: {'cost': 3582, 'email': 'abcedf@gmail.com', 'hours_parked': 8, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ee3fa8db-c3fd-44c6-9a0d-7f4898622221'}
+2023-11-15 19:58:28,408 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:18Z returns 5 results
+2023-11-15 19:58:28,513 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:28', 'payload': {'cost': 8515, 'email': 'abcedf@gmail.com', 'hours_parked': 27, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a0b0bae5-3958-40fa-8624-7cdf29e76c00'}}
+2023-11-15 19:58:28,513 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:28,514 - basicLogger - INFO - cpt Data: {'cost': 8515, 'email': 'abcedf@gmail.com', 'hours_parked': 27, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'a0b0bae5-3958-40fa-8624-7cdf29e76c00'}
+2023-11-15 19:58:28,860 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:28', 'payload': {'cost': 2071, 'email': 'abcedf@gmail.com', 'hours_parked': 383, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '2d901f44-b6b7-43e6-abd9-b125b5b8b387'}}
+2023-11-15 19:58:28,860 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:28,860 - basicLogger - INFO - cpt Data: {'cost': 2071, 'email': 'abcedf@gmail.com', 'hours_parked': 383, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '2d901f44-b6b7-43e6-abd9-b125b5b8b387'}
+2023-11-15 19:58:29,194 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:28', 'payload': {'cost': 1203, 'email': 'abcedf@gmail.com', 'hours_parked': 303, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'af828179-ab35-490e-87c0-f086a2bb2449'}}
+2023-11-15 19:58:29,196 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:29,196 - basicLogger - INFO - cpt Data: {'cost': 1203, 'email': 'abcedf@gmail.com', 'hours_parked': 303, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'af828179-ab35-490e-87c0-f086a2bb2449'}
+2023-11-15 19:58:29,535 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:28', 'payload': {'cost': 3887, 'email': 'abcedf@gmail.com', 'hours_parked': 93, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '8e30f73f-8eb9-4316-8a48-84de40224373'}}
+2023-11-15 19:58:29,536 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:29,537 - basicLogger - INFO - cpt Data: {'cost': 3887, 'email': 'abcedf@gmail.com', 'hours_parked': 93, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '8e30f73f-8eb9-4316-8a48-84de40224373'}
+2023-11-15 19:58:31,078 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:23Z returns 5 results
+2023-11-15 19:58:33,525 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:23Z returns 5 results
+2023-11-15 19:58:33,548 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:33', 'payload': {'bike_id': 30481, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 428, 'timestamp': '2022-12-27 8:26:49', 'trace_id': 'cd344710-273e-4e67-aa83-7ef765566f98'}}
+2023-11-15 19:58:33,902 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:33', 'payload': {'bike_id': 18059, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 229, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '349351df-2cd6-4a89-bbf0-b8cbdff663a8'}}
+2023-11-15 19:58:34,239 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:33', 'payload': {'bike_id': 71037, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 158, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '7664c544-99e6-4bb9-8cf2-2a65d9082379'}}
+2023-11-15 19:58:34,585 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:33', 'payload': {'bike_id': 94352, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 184, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '3dd9b7ef-8e3e-4acb-aba6-262007210939'}}
+2023-11-15 19:58:34,919 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T03:58:33', 'payload': {'bike_id': 94612, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 151, 'timestamp': '2022-12-27 8:26:49', 'trace_id': '948dcaf2-2ebf-4f6d-ab08-06edd2086604'}}
+2023-11-15 19:58:36,084 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:28Z returns 5 results
+2023-11-15 19:58:38,382 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:28Z returns 5 results
+2023-11-15 19:58:38,697 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:38', 'payload': {'cost': 6765, 'email': 'abcedf@gmail.com', 'hours_parked': 428, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9b148899-4a4a-4b92-86b3-09363bf7e86c'}}
+2023-11-15 19:58:38,698 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:38,698 - basicLogger - INFO - cpt Data: {'cost': 6765, 'email': 'abcedf@gmail.com', 'hours_parked': 428, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9b148899-4a4a-4b92-86b3-09363bf7e86c'}
+2023-11-15 19:58:39,070 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:38', 'payload': {'cost': 9710, 'email': 'abcedf@gmail.com', 'hours_parked': 229, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '384c521d-cb90-4dd3-92fc-5bc063fee68b'}}
+2023-11-15 19:58:39,070 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:39,070 - basicLogger - INFO - cpt Data: {'cost': 9710, 'email': 'abcedf@gmail.com', 'hours_parked': 229, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '384c521d-cb90-4dd3-92fc-5bc063fee68b'}
+2023-11-15 19:58:39,394 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:38', 'payload': {'cost': 8981, 'email': 'abcedf@gmail.com', 'hours_parked': 158, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '51454741-7d26-4022-9f12-5a60d71d43e1'}}
+2023-11-15 19:58:39,395 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:39,395 - basicLogger - INFO - cpt Data: {'cost': 8981, 'email': 'abcedf@gmail.com', 'hours_parked': 158, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '51454741-7d26-4022-9f12-5a60d71d43e1'}
+2023-11-15 19:58:39,726 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:38', 'payload': {'cost': 4819, 'email': 'abcedf@gmail.com', 'hours_parked': 184, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9e993c3e-ecc7-400c-8a99-28cf1edac7d3'}}
+2023-11-15 19:58:39,726 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:39,727 - basicLogger - INFO - cpt Data: {'cost': 4819, 'email': 'abcedf@gmail.com', 'hours_parked': 184, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9e993c3e-ecc7-400c-8a99-28cf1edac7d3'}
+2023-11-15 19:58:40,052 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T03:58:38', 'payload': {'cost': 4509, 'email': 'abcedf@gmail.com', 'hours_parked': 151, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ed9a71d2-8b1c-48d9-891d-34625f71dcf3'}}
+2023-11-15 19:58:40,053 - basicLogger - INFO - Processing Event1
+2023-11-15 19:58:40,053 - basicLogger - INFO - cpt Data: {'cost': 4509, 'email': 'abcedf@gmail.com', 'hours_parked': 151, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'ed9a71d2-8b1c-48d9-891d-34625f71dcf3'}
+2023-11-15 19:58:41,079 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:33Z returns 5 results
+2023-11-15 19:58:43,370 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:33Z returns 5 results
+2023-11-15 19:58:46,102 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:38Z returns 5 results
+2023-11-15 19:58:48,419 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:38Z returns 0 results
+2023-11-15 19:58:51,392 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:43Z returns 0 results
+2023-11-15 19:58:53,724 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:43Z returns 0 results
+2023-11-15 19:58:56,091 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:48Z returns 0 results
+2023-11-15 19:58:58,393 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:48Z returns 0 results
+2023-11-15 19:59:01,092 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:53Z returns 0 results
+2023-11-15 19:59:03,411 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:53Z returns 0 results
+2023-11-15 19:59:06,081 - basicLogger - INFO - Query for parked cars after2023-11-15T19:58:58Z returns 0 results
+2023-11-15 19:59:08,396 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:58:58Z returns 0 results
+2023-11-15 19:59:11,086 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:03Z returns 0 results
+2023-11-15 19:59:13,733 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:03Z returns 0 results
+2023-11-15 19:59:16,072 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:08Z returns 0 results
+2023-11-15 19:59:18,375 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:08Z returns 0 results
+2023-11-15 19:59:21,106 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:13Z returns 0 results
+2023-11-15 19:59:23,409 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:13Z returns 0 results
+2023-11-15 19:59:26,433 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:18Z returns 0 results
+2023-11-15 19:59:28,944 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:18Z returns 0 results
+2023-11-15 19:59:36,095 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:23Z returns 0 results
+2023-11-15 19:59:38,394 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:23Z returns 0 results
+2023-11-15 19:59:41,078 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:33Z returns 0 results
+2023-11-15 19:59:43,367 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:33Z returns 0 results
+2023-11-15 19:59:46,079 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:38Z returns 0 results
+2023-11-15 19:59:48,386 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:38Z returns 0 results
+2023-11-16 14:05:18,168 - basicLogger - INFO - Query for parked cars after2023-11-15T19:59:43Z returns 0 results
+2023-11-16 14:05:20,409 - basicLogger - INFO - Query for parked bikes after 2023-11-15T19:59:43Z returns 0 results
+2023-11-16 14:05:27,303 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:15Z returns 0 results
+2023-11-16 14:05:29,537 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:15Z returns 0 results
+2023-11-16 14:05:32,291 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:25Z returns 0 results
+2023-11-16 14:05:34,529 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:25Z returns 0 results
+2023-11-16 14:05:37,287 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:30Z returns 0 results
+2023-11-16 14:05:39,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:30Z returns 0 results
+2023-11-16 14:05:42,289 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:35Z returns 0 results
+2023-11-16 14:05:44,526 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:35Z returns 0 results
+2023-11-16 14:05:47,297 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:40Z returns 0 results
+2023-11-16 14:05:49,548 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:40Z returns 0 results
+2023-11-16 14:05:52,303 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:45Z returns 0 results
+2023-11-16 14:05:54,543 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:45Z returns 0 results
+2023-11-16 14:05:57,299 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:50Z returns 0 results
+2023-11-16 14:05:59,558 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:50Z returns 0 results
+2023-11-16 14:06:02,338 - basicLogger - INFO - Query for parked cars after2023-11-16T14:05:55Z returns 0 results
+2023-11-16 14:06:04,585 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:05:55Z returns 0 results
+2023-11-16 14:06:07,300 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:00Z returns 0 results
+2023-11-16 14:06:09,531 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:00Z returns 0 results
+2023-11-16 14:06:12,298 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:05Z returns 0 results
+2023-11-16 14:06:14,535 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:05Z returns 0 results
+2023-11-16 14:06:17,294 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:10Z returns 0 results
+2023-11-16 14:06:19,526 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:10Z returns 0 results
+2023-11-16 14:06:22,333 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:15Z returns 0 results
+2023-11-16 14:06:24,564 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:15Z returns 0 results
+2023-11-16 14:06:27,308 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:20Z returns 0 results
+2023-11-16 14:06:29,527 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:20Z returns 0 results
+2023-11-16 14:06:32,299 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:25Z returns 0 results
+2023-11-16 14:06:34,551 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:25Z returns 0 results
+2023-11-16 14:06:37,289 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:30Z returns 0 results
+2023-11-16 14:06:39,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:30Z returns 0 results
+2023-11-16 14:06:42,325 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:35Z returns 0 results
+2023-11-16 14:06:44,585 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:35Z returns 0 results
+2023-11-16 14:06:47,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:40Z returns 0 results
+2023-11-16 14:06:49,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:40Z returns 0 results
+2023-11-16 14:06:52,321 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:45Z returns 0 results
+2023-11-16 14:06:54,586 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:45Z returns 0 results
+2023-11-16 14:06:57,294 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:50Z returns 0 results
+2023-11-16 14:06:59,543 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:50Z returns 0 results
+2023-11-16 14:07:02,297 - basicLogger - INFO - Query for parked cars after2023-11-16T14:06:55Z returns 0 results
+2023-11-16 14:07:04,546 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:06:55Z returns 0 results
+2023-11-16 14:07:07,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:00Z returns 0 results
+2023-11-16 14:07:09,596 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:00Z returns 0 results
+2023-11-16 14:07:12,311 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:05Z returns 0 results
+2023-11-16 14:07:14,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:05Z returns 0 results
+2023-11-16 14:07:17,314 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:10Z returns 0 results
+2023-11-16 14:07:19,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:10Z returns 0 results
+2023-11-16 14:07:22,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:15Z returns 0 results
+2023-11-16 14:07:24,574 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:15Z returns 0 results
+2023-11-16 14:07:27,320 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:20Z returns 0 results
+2023-11-16 14:07:29,571 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:20Z returns 0 results
+2023-11-16 14:07:32,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:25Z returns 0 results
+2023-11-16 14:07:34,557 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:25Z returns 0 results
+2023-11-16 14:07:37,311 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:30Z returns 0 results
+2023-11-16 14:07:39,565 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:30Z returns 0 results
+2023-11-16 14:07:42,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:35Z returns 0 results
+2023-11-16 14:07:44,558 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:35Z returns 0 results
+2023-11-16 14:07:47,306 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:40Z returns 0 results
+2023-11-16 14:07:49,554 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:40Z returns 0 results
+2023-11-16 14:07:52,319 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:45Z returns 0 results
+2023-11-16 14:07:54,566 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:45Z returns 0 results
+2023-11-16 14:07:57,300 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:50Z returns 0 results
+2023-11-16 14:07:59,544 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:50Z returns 0 results
+2023-11-16 14:08:02,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:07:55Z returns 0 results
+2023-11-16 14:08:04,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:07:55Z returns 0 results
+2023-11-16 14:08:07,291 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:00Z returns 0 results
+2023-11-16 14:08:09,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:00Z returns 0 results
+2023-11-16 14:08:12,293 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:05Z returns 0 results
+2023-11-16 14:08:14,564 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:05Z returns 0 results
+2023-11-16 14:08:17,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:10Z returns 0 results
+2023-11-16 14:08:19,554 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:10Z returns 0 results
+2023-11-16 14:08:22,321 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:15Z returns 0 results
+2023-11-16 14:08:24,551 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:15Z returns 0 results
+2023-11-16 14:08:27,296 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:20Z returns 0 results
+2023-11-16 14:08:29,521 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:20Z returns 0 results
+2023-11-16 14:08:32,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:25Z returns 0 results
+2023-11-16 14:08:34,546 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:25Z returns 0 results
+2023-11-16 14:08:37,314 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:30Z returns 0 results
+2023-11-16 14:08:39,566 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:30Z returns 0 results
+2023-11-16 14:08:42,299 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:35Z returns 0 results
+2023-11-16 14:08:44,531 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:35Z returns 0 results
+2023-11-16 14:08:47,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:40Z returns 0 results
+2023-11-16 14:08:49,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:40Z returns 0 results
+2023-11-16 14:08:52,296 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:45Z returns 0 results
+2023-11-16 14:08:54,539 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:45Z returns 0 results
+2023-11-16 14:08:57,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:50Z returns 0 results
+2023-11-16 14:08:59,556 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:50Z returns 0 results
+2023-11-16 14:09:02,308 - basicLogger - INFO - Query for parked cars after2023-11-16T14:08:55Z returns 0 results
+2023-11-16 14:09:04,539 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:08:55Z returns 0 results
+2023-11-16 14:09:07,117 - basicLogger - INFO - Message: {'type': 'bpt', 'datetime': '2023-11-16T22:09:06', 'payload': {'bike_id': 2309840, 'bike_model': 'Allez Sport', 'cost': 12, 'email': 'joidad@gmail.com', 'hours_parked': 5, 'timestamp': '2023-09-25 18:46:19', 'trace_id': 'f699e59e-da57-4d64-8cdf-04c43db1ebda'}}
+2023-11-16 14:09:07,297 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:00Z returns 0 results
+2023-11-16 14:09:09,272 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T22:09:09', 'payload': {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '66f167dc-d9b8-4e8a-a6a6-8cb6f6f43983'}}
+2023-11-16 14:09:09,274 - basicLogger - INFO - Processing Event1
+2023-11-16 14:09:09,274 - basicLogger - INFO - cpt Data: {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '66f167dc-d9b8-4e8a-a6a6-8cb6f6f43983'}
+2023-11-16 14:09:09,538 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:00Z returns 1 results
+2023-11-16 14:09:12,290 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:05Z returns 1 results
+2023-11-16 14:09:14,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:05Z returns 1 results
+2023-11-16 14:09:17,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:10Z returns 0 results
+2023-11-16 14:09:19,542 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:10Z returns 0 results
+2023-11-16 14:09:22,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:15Z returns 0 results
+2023-11-16 14:09:24,566 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:15Z returns 0 results
+2023-11-16 14:09:27,319 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:20Z returns 0 results
+2023-11-16 14:09:29,586 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:20Z returns 0 results
+2023-11-16 14:09:32,332 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:25Z returns 0 results
+2023-11-16 14:09:34,317 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T22:09:34', 'payload': {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '3a12e981-f946-4e70-9d95-cbed024d858f'}}
+2023-11-16 14:09:34,317 - basicLogger - INFO - Processing Event1
+2023-11-16 14:09:34,318 - basicLogger - INFO - cpt Data: {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '3a12e981-f946-4e70-9d95-cbed024d858f'}
+2023-11-16 14:09:34,576 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:25Z returns 0 results
+2023-11-16 14:09:37,293 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:30Z returns 1 results
+2023-11-16 14:09:39,538 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:30Z returns 0 results
+2023-11-16 14:09:42,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:35Z returns 0 results
+2023-11-16 14:09:44,570 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:35Z returns 0 results
+2023-11-16 14:09:47,324 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:40Z returns 0 results
+2023-11-16 14:09:49,580 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:40Z returns 0 results
+2023-11-16 14:09:52,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:45Z returns 0 results
+2023-11-16 14:09:54,573 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:45Z returns 0 results
+2023-11-16 14:09:57,300 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:50Z returns 0 results
+2023-11-16 14:09:59,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:50Z returns 0 results
+2023-11-16 14:10:02,310 - basicLogger - INFO - Query for parked cars after2023-11-16T14:09:55Z returns 0 results
+2023-11-16 14:10:04,565 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:09:55Z returns 0 results
+2023-11-16 14:10:07,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:00Z returns 0 results
+2023-11-16 14:10:09,536 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:00Z returns 0 results
+2023-11-16 14:10:12,300 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:05Z returns 0 results
+2023-11-16 14:10:14,537 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:05Z returns 0 results
+2023-11-16 14:10:17,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:10Z returns 0 results
+2023-11-16 14:10:19,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:10Z returns 0 results
+2023-11-16 14:10:22,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:15Z returns 0 results
+2023-11-16 14:10:24,576 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:15Z returns 0 results
+2023-11-16 14:10:27,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:20Z returns 0 results
+2023-11-16 14:10:29,577 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:20Z returns 0 results
+2023-11-16 14:10:32,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:25Z returns 0 results
+2023-11-16 14:10:34,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:25Z returns 0 results
+2023-11-16 14:10:37,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:30Z returns 0 results
+2023-11-16 14:10:39,583 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:30Z returns 0 results
+2023-11-16 14:10:39,595 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T22:10:39', 'payload': {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'bfc04d76-f3a0-4090-953e-520818647c3c'}}
+2023-11-16 14:10:39,596 - basicLogger - INFO - Processing Event1
+2023-11-16 14:10:39,597 - basicLogger - INFO - cpt Data: {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': 'bfc04d76-f3a0-4090-953e-520818647c3c'}
+2023-11-16 14:10:42,320 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:35Z returns 1 results
+2023-11-16 14:10:44,575 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:35Z returns 0 results
+2023-11-16 14:10:47,326 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:40Z returns 1 results
+2023-11-16 14:10:49,587 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:40Z returns 0 results
+2023-11-16 14:10:52,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:45Z returns 0 results
+2023-11-16 14:10:54,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:45Z returns 0 results
+2023-11-16 14:10:57,320 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:50Z returns 0 results
+2023-11-16 14:10:59,562 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:50Z returns 0 results
+2023-11-16 14:11:02,327 - basicLogger - INFO - Query for parked cars after2023-11-16T14:10:55Z returns 0 results
+2023-11-16 14:11:04,604 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:10:55Z returns 0 results
+2023-11-16 14:11:07,305 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:00Z returns 0 results
+2023-11-16 14:11:09,546 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:00Z returns 0 results
+2023-11-16 14:11:12,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:05Z returns 0 results
+2023-11-16 14:11:14,537 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:05Z returns 0 results
+2023-11-16 14:11:17,302 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:10Z returns 0 results
+2023-11-16 14:11:19,559 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:10Z returns 0 results
+2023-11-16 14:11:22,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:15Z returns 0 results
+2023-11-16 14:11:24,537 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:15Z returns 0 results
+2023-11-16 14:11:27,294 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:20Z returns 0 results
+2023-11-16 14:11:29,558 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:20Z returns 0 results
+2023-11-16 14:11:32,321 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:25Z returns 0 results
+2023-11-16 14:11:34,578 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:25Z returns 0 results
+2023-11-16 14:11:37,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:30Z returns 0 results
+2023-11-16 14:11:39,541 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:30Z returns 0 results
+2023-11-16 14:11:42,305 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:35Z returns 0 results
+2023-11-16 14:11:44,559 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:35Z returns 0 results
+2023-11-16 14:11:47,317 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:40Z returns 0 results
+2023-11-16 14:11:49,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:40Z returns 0 results
+2023-11-16 14:11:52,296 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:45Z returns 0 results
+2023-11-16 14:11:54,550 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:45Z returns 0 results
+2023-11-16 14:11:56,267 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T22:11:56', 'payload': {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '76c60c66-6ac4-4b6c-8a12-79e08d5a84d6'}}
+2023-11-16 14:11:56,268 - basicLogger - INFO - Processing Event1
+2023-11-16 14:11:56,268 - basicLogger - INFO - cpt Data: {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '76c60c66-6ac4-4b6c-8a12-79e08d5a84d6'}
+2023-11-16 14:11:57,303 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:50Z returns 2 results
+2023-11-16 14:11:59,561 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:50Z returns 0 results
+2023-11-16 14:12:02,319 - basicLogger - INFO - Query for parked cars after2023-11-16T14:11:55Z returns 2 results
+2023-11-16 14:12:04,588 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:11:55Z returns 0 results
+2023-11-16 14:12:07,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:00Z returns 1 results
+2023-11-16 14:12:09,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:00Z returns 0 results
+2023-11-16 14:12:12,313 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:05Z returns 1 results
+2023-11-16 14:12:14,545 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:05Z returns 0 results
+2023-11-16 14:12:17,317 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:10Z returns 1 results
+2023-11-16 14:12:19,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:10Z returns 0 results
+2023-11-16 14:12:22,294 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:15Z returns 1 results
+2023-11-16 14:12:24,543 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:15Z returns 0 results
+2023-11-16 14:12:27,316 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:20Z returns 1 results
+2023-11-16 14:12:29,552 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:20Z returns 0 results
+2023-11-16 14:12:32,313 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:25Z returns 1 results
+2023-11-16 14:12:34,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:25Z returns 0 results
+2023-11-16 14:12:36,051 - basicLogger - INFO - Message: {'type': 'cpt', 'datetime': '2023-11-16T22:12:35', 'payload': {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9e5d6957-6680-4e7f-8092-f8afc6d4213a'}}
+2023-11-16 14:12:36,053 - basicLogger - INFO - Processing Event1
+2023-11-16 14:12:36,053 - basicLogger - INFO - cpt Data: {'cost': 10, 'email': 'abcedf@gmail.com', 'hours_parked': 2, 'license_id': 'STG234', 'timestamp': '2023-09-28 15:45:30', 'trace_id': '9e5d6957-6680-4e7f-8092-f8afc6d4213a'}
+2023-11-16 14:12:37,288 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:30Z returns 3 results
+2023-11-16 14:12:39,557 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:30Z returns 0 results
+2023-11-16 14:12:42,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:35Z returns 3 results
+2023-11-16 14:12:44,549 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:35Z returns 0 results
+2023-11-16 14:12:47,310 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:40Z returns 2 results
+2023-11-16 14:12:49,574 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:40Z returns 0 results
+2023-11-16 14:12:52,313 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:45Z returns 2 results
+2023-11-16 14:12:54,543 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:45Z returns 0 results
+2023-11-16 14:12:57,312 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:50Z returns 2 results
+2023-11-16 14:12:59,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:50Z returns 0 results
+2023-11-16 14:13:02,326 - basicLogger - INFO - Query for parked cars after2023-11-16T14:12:55Z returns 2 results
+2023-11-16 14:13:04,563 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:12:55Z returns 0 results
+2023-11-16 14:13:07,309 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:00Z returns 2 results
+2023-11-16 14:13:09,550 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:00Z returns 0 results
+2023-11-16 14:13:12,318 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:05Z returns 2 results
+2023-11-16 14:13:14,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:05Z returns 0 results
+2023-11-16 14:13:17,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:10Z returns 2 results
+2023-11-16 14:13:19,549 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:10Z returns 0 results
+2023-11-16 14:13:22,327 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:15Z returns 2 results
+2023-11-16 14:13:24,572 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:15Z returns 0 results
+2023-11-16 14:13:27,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:20Z returns 2 results
+2023-11-16 14:13:29,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:20Z returns 0 results
+2023-11-16 14:13:32,370 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:25Z returns 2 results
+2023-11-16 14:13:34,608 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:25Z returns 0 results
+2023-11-16 14:13:37,288 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:30Z returns 2 results
+2023-11-16 14:13:39,547 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:30Z returns 0 results
+2023-11-16 14:13:42,291 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:35Z returns 2 results
+2023-11-16 14:13:44,515 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:35Z returns 0 results
+2023-11-16 14:13:47,288 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:40Z returns 2 results
+2023-11-16 14:13:49,530 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:40Z returns 0 results
+2023-11-16 14:13:52,298 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:45Z returns 2 results
+2023-11-16 14:13:54,534 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:45Z returns 0 results
+2023-11-16 14:13:57,316 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:50Z returns 2 results
+2023-11-16 14:13:59,567 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:50Z returns 0 results
+2023-11-16 14:14:02,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:13:55Z returns 2 results
+2023-11-16 14:14:04,556 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:13:55Z returns 0 results
+2023-11-16 14:14:07,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:00Z returns 2 results
+2023-11-16 14:14:09,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:00Z returns 0 results
+2023-11-16 14:14:12,323 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:05Z returns 2 results
+2023-11-16 14:14:14,558 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:05Z returns 0 results
+2023-11-16 14:14:17,331 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:10Z returns 2 results
+2023-11-16 14:14:19,561 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:10Z returns 0 results
+2023-11-16 14:14:22,298 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:15Z returns 2 results
+2023-11-16 14:14:24,546 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:15Z returns 0 results
+2023-11-16 14:14:27,305 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:20Z returns 2 results
+2023-11-16 14:14:29,551 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:20Z returns 0 results
+2023-11-16 14:14:32,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:25Z returns 2 results
+2023-11-16 14:14:34,571 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:25Z returns 0 results
+2023-11-16 14:14:37,317 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:30Z returns 2 results
+2023-11-16 14:14:39,569 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:30Z returns 0 results
+2023-11-16 14:14:42,306 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:35Z returns 2 results
+2023-11-16 14:14:44,559 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:35Z returns 0 results
+2023-11-16 14:14:47,297 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:40Z returns 2 results
+2023-11-16 14:14:49,557 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:40Z returns 0 results
+2023-11-16 14:14:52,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:45Z returns 2 results
+2023-11-16 14:14:54,567 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:45Z returns 0 results
+2023-11-16 14:14:57,294 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:50Z returns 2 results
+2023-11-16 14:14:59,533 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:50Z returns 0 results
+2023-11-16 14:15:02,322 - basicLogger - INFO - Query for parked cars after2023-11-16T14:14:55Z returns 2 results
+2023-11-16 14:15:04,573 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:14:55Z returns 0 results
+2023-11-16 14:15:07,312 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:00Z returns 2 results
+2023-11-16 14:15:09,570 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:00Z returns 0 results
+2023-11-16 14:15:12,352 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:05Z returns 2 results
+2023-11-16 14:15:14,612 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:05Z returns 0 results
+2023-11-16 14:15:17,301 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:10Z returns 2 results
+2023-11-16 14:15:19,568 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:10Z returns 0 results
+2023-11-16 14:15:22,303 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:15Z returns 2 results
+2023-11-16 14:15:24,564 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:15Z returns 0 results
+2023-11-16 14:15:27,304 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:20Z returns 2 results
+2023-11-16 14:15:29,542 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:20Z returns 0 results
+2023-11-16 14:15:32,327 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:25Z returns 2 results
+2023-11-16 14:15:34,580 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:25Z returns 0 results
+2023-11-16 14:15:37,307 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:30Z returns 2 results
+2023-11-16 14:15:39,546 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:30Z returns 0 results
+2023-11-16 14:15:42,330 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:35Z returns 2 results
+2023-11-16 14:15:44,585 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:35Z returns 0 results
+2023-11-16 14:15:47,310 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:40Z returns 2 results
+2023-11-16 14:15:49,565 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:40Z returns 0 results
+2023-11-16 14:15:52,322 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:45Z returns 2 results
+2023-11-16 14:15:54,567 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:45Z returns 0 results
+2023-11-16 14:15:57,314 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:50Z returns 2 results
+2023-11-16 14:15:59,572 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:50Z returns 0 results
+2023-11-16 14:16:02,308 - basicLogger - INFO - Query for parked cars after2023-11-16T14:15:55Z returns 2 results
+2023-11-16 14:16:04,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:15:55Z returns 0 results
+2023-11-16 14:16:07,316 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:00Z returns 2 results
+2023-11-16 14:16:09,572 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:00Z returns 0 results
+2023-11-16 14:16:12,315 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:05Z returns 2 results
+2023-11-16 14:16:14,567 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:05Z returns 0 results
+2023-11-16 14:16:17,311 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:10Z returns 2 results
+2023-11-16 14:16:19,549 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:10Z returns 0 results
+2023-11-16 14:16:22,305 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:15Z returns 2 results
+2023-11-16 14:16:24,561 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:15Z returns 0 results
+2023-11-16 14:16:27,321 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:20Z returns 2 results
+2023-11-16 14:16:29,551 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:20Z returns 0 results
+2023-11-16 14:16:32,308 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:25Z returns 2 results
+2023-11-16 14:16:34,555 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:25Z returns 0 results
+2023-11-16 14:16:37,308 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:30Z returns 2 results
+2023-11-16 14:16:39,556 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:30Z returns 0 results
+2023-11-16 14:16:42,316 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:35Z returns 2 results
+2023-11-16 14:16:44,554 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:35Z returns 0 results
+2023-11-16 14:16:47,306 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:40Z returns 2 results
+2023-11-16 14:16:49,532 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:40Z returns 0 results
+2023-11-16 14:16:52,285 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:45Z returns 2 results
+2023-11-16 14:16:54,507 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:45Z returns 0 results
+2023-11-16 14:16:57,310 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:50Z returns 2 results
+2023-11-16 14:16:59,566 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:50Z returns 0 results
+2023-11-16 14:17:02,321 - basicLogger - INFO - Query for parked cars after2023-11-16T14:16:55Z returns 2 results
+2023-11-16 14:17:04,564 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:16:55Z returns 0 results
+2023-11-16 14:17:07,290 - basicLogger - INFO - Query for parked cars after2023-11-16T14:17:00Z returns 2 results
+2023-11-16 14:17:09,560 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:17:00Z returns 0 results
+2023-11-16 14:17:12,291 - basicLogger - INFO - Query for parked cars after2023-11-16T14:17:05Z returns 2 results
+2023-11-16 14:17:14,545 - basicLogger - INFO - Query for parked bikes after 2023-11-16T14:17:05Z returns 0 results
+2023-11-16 14:17:17,297 - basicLogger - INFO - Query for parked cars after2023-11-16T14:17:10Z returns 2 results

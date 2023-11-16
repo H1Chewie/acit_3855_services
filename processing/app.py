@@ -107,7 +107,8 @@ def get_stats():
             "num_car_parkings": json_object.get('num_car_parkings', 0),
             "max_car_cost": json_object.get('max_car_cost', 0),
             "num_bike_events": json_object.get('num_bike_events', 0),
-            "max_bike_cost": json_object.get('max_bike_cost', 0)
+            "max_bike_cost": json_object.get('max_bike_cost', 0),
+            "last_updated": json_object.get('last_updated', '2021-02-05T12:39:16Z')
         }
         logger.debug(return_dict)
         logger.info("get_stats request completed")
