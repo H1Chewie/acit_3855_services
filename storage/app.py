@@ -4,6 +4,7 @@ from connexion import NoContent
 from datetime import datetime
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
+from sqlalchemy import and_
 from base import Base
 from bike_parking_ticket import BikeEvent
 from car_parking_ticket import CarEvent
@@ -34,23 +35,27 @@ DB_SESSION = sessionmaker(bind=DB_ENGINE)
 logging.info(
     f"Connecting to MySQL database on {app_config['datastore']['hostname']}:{app_config['datastore']['port']}")
 
-def get_parked_cars(timestamp):
+def get_parked_cars(timestamp, end_timestamp):
     """ Gets parked cars after the timestamp """
     
     session = DB_SESSION()
     timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    cars = session.query(CarEvent).filter(CarEvent.date_created >= timestamp_datetime)
+    end_timestamp_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    cars = session.query(CarEvent).filter(and_(CarEvent.date_created >= timestamp_datetime,
+                                          CarEvent.date_created < end_timestamp_datetime))
     results_list = [car.to_dict() for car in cars]
     session.close()
     logger.info("Query for parked cars after%s returns %d results" % (timestamp, len(results_list)))
     return results_list, 200
 
-def get_parked_bikes(timestamp):
+def get_parked_bikes(timestamp, end_timestamp):
     """ Gets parked bikes after the timestamp """
     
     session = DB_SESSION()
     timestamp_datetime = datetime.strptime(timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    bikes = session.query(BikeEvent).filter(BikeEvent.date_created >= timestamp_datetime)
+    end_timestamp_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
+    bikes = session.query(BikeEvent).filter(and_(BikeEvent.date_created >= timestamp_datetime,
+                                            BikeEvent.date_created < end_timestamp_datetime))
     results_list = [bike.to_dict() for bike in bikes]
     session.close()
     logger.info("Query for parked bikes after %s returns %d results" % (timestamp, len(results_list)))

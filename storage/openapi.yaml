@@ -25,6 +25,14 @@ paths:
               type: string
               format: date-time
               example: 2021-02-05T12:39:16Z
+          - name: end_timestamp
+            in: query
+            description: Timestamp to filter parked cars
+            required: true
+            schema:
+              type: string
+              format: date-time
+              example: 2021-02-05T5:45:16Z
         responses:
           '200':
             description: Successfully returned a list of parked car events
@@ -60,6 +68,14 @@ paths:
               type: string
               format: date-time
               example: '2021-02-05T12:39:16Z'
+          - name: end_timestamp
+            in: query
+            description: Timestamp to filter parked bikes
+            required: true
+            schema:
+              type: string
+              format: date-time
+              example: '2021-02-05T5:45:16Z'
         responses:
           '200':
             description: Successfully returned a list of parked bike events
