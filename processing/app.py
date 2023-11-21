@@ -28,15 +28,19 @@ def init_scheduler():
 
 def populate_stats():
     logger.info("Start Periodic Processing")
-    last_updated = current_datetime
     
     try:
+
+        last_updated = current_datetime
+
         with open(app_config['datastore']['filename'], 'r') as f:
             json_object = json.load(f)
             max_car_cost = json_object["max_car_cost"]
             num_car_parkings = json_object['num_car_parkings']
             num_bike_events = json_object['num_bike_events']
             max_bike_cost = json_object['max_bike_cost']
+        
+        current_datetime = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
     except:
         json_object = {
@@ -51,7 +55,6 @@ def populate_stats():
 
     
     # timestamp = datetime.now()    
-    current_datetime = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
     
     response_car = requests.get(app_config['eventstore']['url1'] + "/CarEvent?timestamp=" + last_updated +"&end_timestamp=" + current_datetime)
     response_bike = requests.get(app_config['eventstore']['url2'] + "/BikeEvent?timestamp=" + last_updated +"&end_timestamp=" + current_datetime)
