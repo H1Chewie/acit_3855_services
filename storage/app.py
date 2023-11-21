@@ -67,18 +67,13 @@ def process_messages():
 
     max_retries = app_config["events"]["max_retries"]
     retry_interval = app_config["events"]["retry_interval"]
-
     current_retry = 0
-    connected = False
-    topic = None
-
-    while current_retry < max_retries and not connected: 
-        try:
-            hostname = "%s:%d" % (app_config["events"]["hostname"],
+    hostname = "%s:%d" % (app_config["events"]["hostname"],
                                 app_config["events"]["port"])
+    while current_retry < max_retries: 
+        try:
             client = KafkaClient(hosts=hostname)
             topic = client.topics[str.encode(app_config["events"]["topic"])]
-            connected = True
             logger.info(f"successfully connected to Kafka.")
             break
         except Exception as e:
@@ -86,9 +81,6 @@ def process_messages():
             time.sleep(retry_interval)
             current_retry += 1
 
-    if not connected:
-        logger.error(f"Max retries exceeded. Could not connect to Kafka.")
-        return
     # Create a consumer group, read only new messages (OffsetType.LATEST)
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                           reset_offset_on_start=False,
