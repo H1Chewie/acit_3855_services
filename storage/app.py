@@ -56,7 +56,9 @@ def get_parked_bikes(start_timestamp, end_timestamp):
     session = DB_SESSION()
     start_timestamp_datetime = datetime.strptime(start_timestamp, "%Y-%m-%dT%H:%M:%SZ")
     end_timestamp_datetime = datetime.strptime(end_timestamp, "%Y-%m-%dT%H:%M:%SZ")
-    bikes = session.query(BikeEvent).filter(and_(BikeEvent.date_created >= start_timestamp_datetime, BikeEvent.date_created < end_timestamp_datetime))
+    bikes = session.query(BikeEvent).filter(
+        and_(BikeEvent.date_created >= start_timestamp_datetime,
+        BikeEvent.date_created < end_timestamp_datetime))
     results_list = [bike.to_dict() for bike in bikes]
     session.close()
     logger.info("Query for parked bikes after %s returns %d results" % (start_timestamp, len(results_list)))
