@@ -52,8 +52,8 @@ def populate_stats():
     # timestamp = datetime.now()    
     current_datetime = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    response_car = requests.get(app_config['eventstore']['url1'] + "/CarEvent?timestamp=" + json_object['last_updated'] +"&end_timestamp=" + current_datetime)
-    response_bike = requests.get(app_config['eventstore']['url2'] + "/BikeEvent?timestamp=" + json_object['last_updated'] + current_datetime)
+    response_car = requests.get(app_config['eventstore']['url1'] + "/CarEvent?start_timestamp=" + json_object['last_updated'] +"&end_timestamp=" + current_datetime)
+    response_bike = requests.get(app_config['eventstore']['url2'] + "/BikeEvent?start_timestamp=" + json_object['last_updated'] + "&end_timestam=" + current_datetime)
 
     if response_car.status_code == 200 and response_bike.status_code == 200:
 

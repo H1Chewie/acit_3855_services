@@ -60,7 +60,7 @@ paths:
         operationId: app.get_parked_bikes
         description: Gets parked bikes added after a timestamp
         parameters:
-          - name: timestamp
+          - name: start_stimestamp
             in: query
             description: Timestamp to filter parked bikes
             required: true
