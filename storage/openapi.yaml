@@ -24,7 +24,7 @@ paths:
             schema:
               type: string
               format: date-time
-              example: 2021-02-05T12:39:16Z
+              example: '2021-02-05T12:39:16Z'
           - name: end_timestamp
             in: query
             description: Timestamp to filter parked cars
@@ -32,7 +32,7 @@ paths:
             schema:
               type: string
               format: date-time
-              example: 2021-02-05T5:45:16Z
+              example: '2021-02-05T5:45:16Z'
         responses:
           '200':
             description: Successfully returned a list of parked car events
