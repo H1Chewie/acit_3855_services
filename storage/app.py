@@ -89,6 +89,7 @@ def process_messages():
         try:
             client = KafkaClient(hosts=hostname)
             topic = client.topics[str.encode(app_config["events"]["topic"])]
+            print("hello")
             logger.info(f"successfully connected to Kafka.")
             break
         except Exception as e:
