@@ -9,3 +9,6 @@ events:
   hostname: acit3855kafkazoo.eastus2.cloudapp.azure.com
   port: 9092
   topic: events
+kafka:
+  max_retires: 10
+  retry_interval: 5

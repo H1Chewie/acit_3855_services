@@ -6,4 +6,7 @@ eventstore2:
 events:
   hostname: acit3855kafkazoo.eastus2.cloudapp.azure.com
   port: 9092
-  topic: events 
+  topic: events
+kafka:
+  max_retries: 10
+  retry_interval: 5

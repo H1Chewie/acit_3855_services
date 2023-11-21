@@ -14,6 +14,7 @@ import logging
 from pykafka import KafkaClient
 from pykafka.common import OffsetType
 from threading import Thread
+import time
 
 # DB_ENGINE = create_engine("sqlite:///tickets.sqlite")
 with open('app_conf.yml', 'r') as f:
@@ -64,11 +65,28 @@ def get_parked_bikes(timestamp, end_timestamp):
 def process_messages():
     """ Process event messages """
 
-    hostname = "%s:%d" % (app_config["events"]["hostname"],
-                           app_config["events"]["port"])
-    client = KafkaClient(hosts=hostname)
-    topic = client.topics[str.encode(app_config["events"]["topic"])]
-    
+    max_retries = app_config["events"]["max_retries"]
+    retry_interval = app_config["events"]["retry_interval"]
+
+    current_retry = 0
+    connected = False
+    topic = None
+
+    while current_retry < max_retries and not connected: 
+        try:
+            hostname = "%s:%d" % (app_config["events"]["hostname"],
+                                app_config["events"]["port"])
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(app_config["events"]["topic"])]
+            connected = True
+        except Exception as e:
+            logger.error(f"Failed to connect to Kafka. Retrying ... Retry Count: {current_retry + 1}")
+            time.sleep(retry_interval)
+            current_retry += 1
+
+    if not connected:
+        logger.error(f"Max retries exceeded. Could not connect to Kafka.")
+        return
     # Create a consumer group, read only new messages (OffsetType.LATEST)
     consumer = topic.get_simple_consumer(consumer_group=b'event_group',
                                           reset_offset_on_start=False,

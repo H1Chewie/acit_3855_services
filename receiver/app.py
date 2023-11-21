@@ -8,6 +8,7 @@ import logging
 import logging.config
 import uuid
 from pykafka import KafkaClient
+import time
 
 with open('app_conf.yml', 'r') as f:
     app_config = yaml.safe_load(f.read())
@@ -18,16 +19,41 @@ with open('log_conf.yml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
+def connect_to_kafka(app_config):
+    max_retries = app_config["events"]["max_retries"]
+    retry_interval = app_config["events"]["retry_interval"]
+    current_retry = 0
+    connected = False
+    topic = None
+
+    while current_retry < max_retries and not connected:
+        try:
+            hostname = "%s:%d" % (app_config["events"]["hostname"],
+                                app_config["events"]["port"])
+            client = KafkaClient(hosts=hostname)
+            topic = client.topics[str.encode(app_config['events']['topic'])]
+            connected = True
+        except Exception as e:
+            logger.error(f"Failed to connect to Kafka. Retrying ... Retry Count: {current_retry + 1}")
+            time.sleep(retry_interval)
+            current_retry += 1
+    if not connected:
+        logger.error("Max retries exceeded. Could not connect to Kafka")
+    return topic if connected else None
+
+def get_producer(app_config):
+    topic = connect_to_kafka(app_config)
+    return topic.get_sync_producer() if topic else None
+
 def report_car_parking_ticket(body):
     """ Receives a car parking ticket"""
 
     body['trace_id'] = str(uuid.uuid4()) #generates a unique trace ID
     logger.info(f"Received event car_parking_ticket request with a trace id of {body['trace_id']} ")
+    producer = get_producer(app_config)
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
-
+    if producer is None:
+        return NoContent, 500
     msg = {
         "type": "cpt",
         "datetime": datetime.now().strftime("%Y-%m-%dT%H:%M:%S"),
@@ -36,6 +62,7 @@ def report_car_parking_ticket(body):
 
     msg_str = json.dumps(msg)
     producer.produce(msg_str.encode('utf-8'))
+
     logger.info(f"Returned event car_parking_ticket request with a trace id of {body['trace_id']} ")
 
     return NoContent, 201
@@ -46,10 +73,10 @@ def report_bike_parking_ticket(body):
     body['trace_id'] = str(uuid.uuid4())
     logger.info(f"Received event bike_parking_ticket request with a trace if of {body['trace_id']}")
 
+    producer = get_producer(app_config)
 
-    client = KafkaClient(hosts=f"{app_config['events']['hostname']}:{app_config['events']['port']}")
-    topic = client.topics[str.encode(app_config['events']['topic'])]
-    producer = topic.get_sync_producer()
+    if producer is None:
+        return NoContent, 500
 
     msg = {
         "type": "bpt",
