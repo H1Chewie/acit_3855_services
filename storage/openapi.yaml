@@ -17,7 +17,7 @@ paths:
         operationId: app.get_parked_cars
         description: Gets parked cars added after a timestamp
         parameters:
-          - name: timestamp
+          - name: start_timestamp
             in: query
             description: Timestamp to filter parked cars
             required: true
@@ -32,7 +32,7 @@ paths:
             schema:
               type: string
               format: date-time
-              example: '2021-02-05T5:45:16Z'
+              example: '2021-02-05T12:49:16Z'
         responses:
           '200':
             description: Successfully returned a list of parked car events
@@ -75,7 +75,7 @@ paths:
             schema:
               type: string
               format: date-time
-              example: '2021-02-05T5:45:16Z'
+              example: '2021-02-05T12:49:16Z'
         responses:
           '200':
             description: Successfully returned a list of parked bike events
