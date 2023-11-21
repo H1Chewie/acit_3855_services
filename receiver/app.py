@@ -19,38 +19,30 @@ with open('log_conf.yml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
-def connect_to_kafka(app_config):
-    max_retries = app_config["events"]["max_retries"]
-    retry_interval = app_config["events"]["retry_interval"]
-    current_retry = 0
-    connected = False
-    topic = None
 
-    while current_retry < max_retries and not connected:
-        try:
-            hostname = "%s:%d" % (app_config["events"]["hostname"],
-                                app_config["events"]["port"])
-            client = KafkaClient(hosts=hostname)
-            topic = client.topics[str.encode(app_config['events']['topic'])]
-            connected = True
-        except Exception as e:
-            logger.error(f"Failed to connect to Kafka. Retrying ... Retry Count: {current_retry + 1}")
-            time.sleep(retry_interval)
-            current_retry += 1
-    if not connected:
-        logger.error("Max retries exceeded. Could not connect to Kafka")
-    return topic if connected else None
+max_retries = app_config["events"]["max_retries"]
+retry_interval = app_config["events"]["retry_interval"]
+current_retry = 0
 
-def get_producer(app_config):
-    topic = connect_to_kafka(app_config)
-    return topic.get_sync_producer() if topic else None
+while current_retry < max_retries:
+    try:
+        hostname = "%s:%d" % (app_config["events"]["hostname"],
+                            app_config["events"]["port"])
+        client = KafkaClient(hosts=hostname)
+        topic = client.topics[str.encode(app_config['events']['topic'])]
+        logger.inf(f"Successfully connected to Kafka")
+        producer = topic.get_sync_producer()
+        break
+    except Exception as e:
+        logger.error(f"Failed to connect to Kafka. Retrying ... Retry Count: {current_retry + 1}")
+        time.sleep(retry_interval)
+        current_retry += 1
 
 def report_car_parking_ticket(body):
     """ Receives a car parking ticket"""
 
     body['trace_id'] = str(uuid.uuid4()) #generates a unique trace ID
     logger.info(f"Received event car_parking_ticket request with a trace id of {body['trace_id']} ")
-    producer = get_producer(app_config)
 
     if producer is None:
         return NoContent, 500
@@ -72,8 +64,6 @@ def report_bike_parking_ticket(body):
     
     body['trace_id'] = str(uuid.uuid4())
     logger.info(f"Received event bike_parking_ticket request with a trace if of {body['trace_id']}")
-
-    producer = get_producer(app_config)
 
     if producer is None:
         return NoContent, 500
