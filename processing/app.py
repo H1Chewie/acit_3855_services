@@ -31,8 +31,6 @@ def populate_stats():
     
     try:
 
-        last_updated = current_datetime
-
         with open(app_config['datastore']['filename'], 'r') as f:
             json_object = json.load(f)
             max_car_cost = json_object["max_car_cost"]
@@ -40,8 +38,6 @@ def populate_stats():
             num_bike_events = json_object['num_bike_events']
             max_bike_cost = json_object['max_bike_cost']
         
-        current_datetime = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
-
     except:
         json_object = {
         "num_car_parkings": 0,
@@ -52,12 +48,12 @@ def populate_stats():
         }
         with open(app_config['datastore']['filename'], 'w') as f:
             json.dump(json_object, f, indent=4)
-
     
     # timestamp = datetime.now()    
-    
-    response_car = requests.get(app_config['eventstore']['url1'] + "/CarEvent?timestamp=" + last_updated +"&end_timestamp=" + current_datetime)
-    response_bike = requests.get(app_config['eventstore']['url2'] + "/BikeEvent?timestamp=" + last_updated +"&end_timestamp=" + current_datetime)
+    current_datetime = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    response_car = requests.get(app_config['eventstore']['url1'] + "/CarEvent?timestamp=" + json_object['last_updated'] +"&end_timestamp=" + current_datetime)
+    response_bike = requests.get(app_config['eventstore']['url2'] + "/BikeEvent?timestamp=" + json_object['last_updated'] + current_datetime)
 
     if response_car.status_code == 200 and response_bike.status_code == 200:
 
