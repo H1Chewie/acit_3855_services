@@ -28,7 +28,8 @@ def init_scheduler():
 
 def populate_stats():
     logger.info("Start Periodic Processing")
-
+    last_updated = current_datetime
+    
     try:
         with open(app_config['datastore']['filename'], 'r') as f:
             json_object = json.load(f)
