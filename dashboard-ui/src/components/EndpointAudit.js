@@ -15,10 +15,10 @@ export default function EndpointAudit(props) {
 				console.log("Received Audit Results for " + props.endpoint)
                 setLog(result);
                 setIsLoaded(true);
+                setIndex(rand_val);
             },(error) =>{
                 setError(error)
                 setIsLoaded(true);
-                setIndex(rand_val);
             })
     }
 	useEffect(() => {
