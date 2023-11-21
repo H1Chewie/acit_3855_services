@@ -19,20 +19,23 @@ with open('log_conf.yml', 'r') as f:
 
 logger = logging.getLogger('basicLogger')
 
-
 max_retries = app_config["events"]["max_retries"]
 retry_interval = app_config["events"]["retry_interval"]
 current_retry = 0
 hostname = "%s:%d" % (app_config["events"]["hostname"],
                             app_config["events"]["port"])
 while current_retry < max_retries:
+    logger.info("attempting connection")
     try:
+        print(hostname)
+        print(app_config['events']['topic'])
         client = KafkaClient(hosts=hostname)
         topic = client.topics[str.encode(app_config['events']['topic'])]
         logger.inf(f"Successfully connected to Kafka")
         producer = topic.get_sync_producer()
         break
     except Exception as e:
+        print(e)
         logger.error(f"Failed to connect to Kafka. Retrying ... Retry Count: {current_retry + 1}")
         time.sleep(retry_interval)
         current_retry += 1
