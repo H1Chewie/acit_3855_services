@@ -127,8 +127,8 @@ services:
     ports:
       - "80:80"
     networks:
-      "api.network"
-      
+      - "api.network"
+
 volumes:
   my-db:
   processing-db:
