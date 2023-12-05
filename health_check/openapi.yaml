@@ -9,7 +9,7 @@ paths:
   /health:
     get:
       summary: "get the health status of services"
-      operationId: app.health_status
+      operationId: app.change_health_status
       responses:
         '200':
           description: "service statuses retrieved successfully"
