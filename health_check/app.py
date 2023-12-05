@@ -41,8 +41,7 @@ def health_service_status(service, url):
         logger.error(f"Failed to connect to {service}: {e}")
     return 'Down'
 
-def update_health_status():
-    logger.info("Retrieving health status of all the services.")        
+def get_health_status():
     current_datetime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
     health_status = {
         'Receiver': health_service_status('Receiver', app_config['eventstore']['url'] + app_config['service']['receiver']),
@@ -51,6 +50,17 @@ def update_health_status():
         'Audit': health_service_status('Audit', app_config['eventstore']['url'] + app_config['service']['audit']),
         'last_update': current_datetime
     }
+    return health_status
+
+def update_health_status():
+    logger.info("Retrieving health status of all the services.") 
+    health_status = get_health_status()
+    
+    with open(app_config['datastore']['filename'], 'w') as file:
+        json.dump(health_status, file, indent=2)
+
+    logger.info("Health status of all the services.")
+    return health_status, 200  
     
     with open(app_config['datastore']['filename'], 'w') as file:
         json.dump(health_status, file, indent=2)
