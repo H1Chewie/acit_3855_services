@@ -43,7 +43,7 @@ def health_service_status(service, url):
 
 def change_health_status():
     logger.info("Retrieving health status of all the services.")        
-    current_datetime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
+    current_datetime = datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
     health_status = {
         'Receiver': health_service_status('Receiver', app_config['eventstore']['url'] + app_config['service']['receiver']),
         'Storage': health_service_status('Storage', app_config['eventstore']['url'] + app_config['service']['storage']),
