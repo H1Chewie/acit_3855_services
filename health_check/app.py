@@ -12,7 +12,7 @@ import os
 
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
-    app_conf_file = "/config/app_conf.yml"
+    app_conf_file = "/config/health_check/app_conf.yml"
     log_conf_file = "/config/log_conf.yml"
 else:
     print("In Dev Environment")
@@ -30,6 +30,14 @@ logger = logging.getLogger('basicLogger')
 
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File %s" % log_conf_file )
+
+def get_health_stats():
+    try:
+        with open(app_config['datastore']['filename'], 'r') as file:
+            data = json.load(file)
+        return data, 200
+    except:
+        return "Failed to retrieve stats", 400        
 
 def health_service_status(service, url):
     try:
@@ -56,7 +64,7 @@ def change_health_status():
         json.dump(health_status, file, indent=2)
 
     logger.info("Health status of all the services.")      
-    return health_status, 200  
+    return health_status, 200
 
 def init_scheduler():
     sched = BackgroundScheduler(daemon=True)

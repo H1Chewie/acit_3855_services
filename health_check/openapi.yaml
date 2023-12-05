@@ -9,7 +9,7 @@ paths:
   /health:
     get:
       summary: "get the health status of services"
-      operationId: app.change_health_status
+      operationId: app.get_health_stats
       responses:
         '200':
           description: "service statuses retrieved successfully"
@@ -19,7 +19,7 @@ paths:
                 type: object
                 items: 
                   $ref: '#/components/schemas/healthstatus'
-
+  
 
 components:
   schemas:
