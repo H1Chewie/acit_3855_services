@@ -131,7 +131,7 @@ services:
   health_check:
     image: health_check:latest
     ports:
-      - "8120"
+      - '8120'
     networks:
       - "api.network"      
     environment:

@@ -35,7 +35,7 @@ def health_service_status(service, url):
     try:
         response = requests.get(url, timeout=5)
         if response.status_code == 200:
-            logger.info(f"Successfully retrieved health status of {service}")
+            logger.info(f"Retrieved health status of {service}")
             return 'Running'
     except requests.RequestException as e:
         logger.error(f"Failed to connect to {service}: {e}")
@@ -64,12 +64,11 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
+if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
+    CORS(app.app)
+    app.app.config['CORS_HEADERS'] = 'Content-Type'
 app.add_api("openapi.yaml", base_path="/health_check", strict_validation=True, validate_responses=True)
-
+    
 if __name__ == "__main__":
-    if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
-        CORS(app.app)
-        app.app.config['CORS_HEADERS'] = 'Content-Type'
-        
     init_scheduler()
     app.run(port=8120, use_reloader=False)
