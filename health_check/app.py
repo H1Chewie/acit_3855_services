@@ -42,7 +42,7 @@ def health_service_status(service, url):
     return 'Down'
 
 def update_health_status():
-    logger.info("Started retrieving health status of all the services.")        
+    logger.info("Retrieving health status of all the services.")        
     current_datetime = datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S.%f')
     health_status = {
         'Receiver': health_service_status('Receiver', app_config['eventstore']['url'] + app_config['service']['receiver']),
@@ -64,10 +64,7 @@ def init_scheduler():
     sched.start()
 
 app = connexion.FlaskApp(__name__, specification_dir='')
-app.add_api("openapi.yaml",
-            base_path="/health_check",
-            strict_validation=True,
-            validate_responses=True)
+app.add_api("openapi.yaml", base_path="/health_check", strict_validation=True, validate_responses=True)
 
 if __name__ == "__main__":
     if "TARGET_ENV" not in os.environ or os.environ["TARGET_ENV"] != "test":
