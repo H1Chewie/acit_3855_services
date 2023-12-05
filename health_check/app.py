@@ -32,12 +32,14 @@ logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File %s" % log_conf_file )
 
 def get_health_stats():
+    logger.info("Getting health stats")
     try:
         with open(app_config['datastore']['filename'], 'r') as file:
             data = json.load(file)
         return data, 200
     except:
         return "Failed to retrieve stats", 400        
+
 
 def health_service_status(service, url):
     try:
