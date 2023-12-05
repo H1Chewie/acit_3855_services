@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  filename: data.json
+scheduler:
+  period_sec: 20
+eventstore:
+  url: http://acit3855kafkazoo.eastus2.cloudapp.azure.com
+service:  
+    receiver: /receiver/health
+    storage: /storage/health
+    processing: /processing/health
+    audit: /audit_log/health

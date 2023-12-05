@@ -46,7 +46,18 @@ paths:
               schema:
                 $ref: '#/components/schemas/ParkedBikes'
           description: Reading item to add
-  
+
+    /health:
+      get:
+        summary: returns health status of service
+        description: returns the health status of the service
+        operationId: app.health_status
+        responses:
+          '200':
+            description: Service is running
+          '500':
+            description: Service down
+                
 components:
   schemas:
       ParkedCars:

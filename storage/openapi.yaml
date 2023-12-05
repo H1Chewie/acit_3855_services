@@ -51,7 +51,18 @@ paths:
                   properties:
                     message:
                       type: string
+    /health:
+      get:
+        summary: returns health status of service
+        description: returns the health status of the service
+        operationId: app.health_status
+        responses:
+          '200':
+            description: Service is running
+          '500':
+            description: Service down
 
+  /stats:
     /parking/bikes:
       get:
         tags:

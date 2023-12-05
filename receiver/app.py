@@ -32,6 +32,10 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File %s" % log_conf_file )
 
+def health_status():
+    logger.info("Service is running")
+    return 200
+
 max_retries = app_config["events"]["max_retries"]
 retry_interval = app_config["events"]["retry_interval"]
 current_retry = 0

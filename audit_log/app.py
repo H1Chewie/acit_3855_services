@@ -38,6 +38,10 @@ logger = logging.getLogger('basicLogger')
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File %s" % log_conf_file )
 
+def health_status():
+    logger.info("Service is running")
+    return 200
+
 # Function to get car parking ticket from history
 def get_parked_car(index):
     """ Get Car Parking Ticket from History """
@@ -92,6 +96,7 @@ def get_parked_bike(index):
         
     logger.error("Could not find bike parking ticket at index %d" % index)
     return {"message": "Not Found"}, 404
+
 
 app = connexion.FlaskApp(__name__, specification_dir='')
 if "TARGET_ENV" not in os.environ and os.environ["TARGET_ENV"] != "test":
