@@ -59,7 +59,7 @@ services:
   
   storage:
     image: h1chewie/storage:storageapp
-      - '8090'
+      - '8090:8090'
     networks:
       - "api.network"
     environment:
@@ -101,7 +101,7 @@ services:
       - kafka
 
   dashboard:
-    image: h1chewie/dashboard
+    image: h1chewie/dashboard:latest
     ports:
       - "3000"
     networks:
@@ -128,7 +128,7 @@ services:
     networks:
       - "api.network"
   health_check:
-    image: h1chewie/health_check
+    image: h1chewie/health_check:latest
     ports:
       - '8120'
     networks:
