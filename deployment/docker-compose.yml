@@ -44,7 +44,7 @@ services:
       - my-db:/var/lib/mysql
 
   receiver:
-    image: receiver
+    image: h1chewie/receiver:receiverapp
     ports:
       - '8080'
     networks:
@@ -58,7 +58,7 @@ services:
       - kafka
   
   storage:
-    image: storage
+    image: h1chewie/storage:storageapp
       - '8090:8090'
     networks:
       - "api.network"
@@ -72,7 +72,7 @@ services:
       - db
   
   processing:
-    image: processing
+    image: h1chewie/processing:processingapp
     ports:
       - '8100'
     networks:
@@ -87,7 +87,7 @@ services:
       - storage
 
   audit_log:
-    image: audit_log
+    image: h1chewie/audit_log:auditapp
     ports:
       - '8110'
     networks:
@@ -101,7 +101,7 @@ services:
       - kafka
 
   dashboard:
-    image: dashboard
+    image: h1chewie/dashboard:latest
     ports:
       - "3000"
     networks:
@@ -128,7 +128,7 @@ services:
     networks:
       - "api.network"
   health_check:
-    image: health_check
+    image: h1chewie/health_check:latest
     ports:
       - '8120'
     networks:
