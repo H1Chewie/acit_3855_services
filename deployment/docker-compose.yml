@@ -101,7 +101,7 @@ services:
       - kafka
 
   dashboard:
-    image: h1chewie/dashboard:latest
+    image: h1chewie/dashboard
     ports:
       - "3000"
     networks:
@@ -128,7 +128,7 @@ services:
     networks:
       - "api.network"
   health_check:
-    image: h1chewie/health_check:latest
+    image: h1chewie/health_check
     ports:
       - '8120'
     networks:
